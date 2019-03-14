@@ -1,12 +1,43 @@
 # S-1 Data stuff
 
+
+## Getting things running
+
+Requires Python 3.x (Anaconda works well) and sqlite3 and [xsv](https://github.com/BurntSushi/xsv)
+
+### Building a sqlite database of the SEC compact datasets
+
+```sh
+# fetch the data
+./src/datafetching/fetch-datasets.py
+# unzip the zips into data/datasets/
+./src/datafetching/unpack-datasets.py
+# using `xsv`, compile the raw TSVs into 3 csvs: 
+# data/datasets/formatted/pre,num,sub.csv
+./src/datafetching/format-datasets.py
+
+# create a sqlite database in data/sqlcake/sec-datasets.sqlite
+# import the data/datasets/formatted/*.csv
+# index the tables
+./src/sqlcake/datasets/bootstrap.sh  \
+    data/sqlcake/sec-datasets.sqlite  \
+    data/datasets/formatted
+```
+
+Result is `data/sqlcake/sec-datasets.sqlite` at ~26GB.
+
+You can see a sample at: [samples/sec-datasets-sample.sqlite](samples/sec-datasets-sample.sqlite)
+
+
 ## SEC Data and Notes
 
 https://www.sec.gov/dera/data/financial-statement-and-notes-data-set.html
 
 - Docs: https://www.sec.gov/files/aqfsn_1.pdf
 
-## SEC datasets: 
+## SEC datasets
+
+This is a slim version of the full data and notes, containing only 4 out of the 8 tables in the notes version.
 
 https://www.sec.gov/dera/data/financial-statement-data-sets.html
 
@@ -19,6 +50,8 @@ https://www.sec.gov/dera/data/financial-statement-data-sets.html
 Google spreadsheet containing a sampling of 2016q4 data from several companies:
 
 https://docs.google.com/spreadsheets/d/1WgD0WkvVaUtqTE0Af_ZdCVSFk1eFp7Jv4c87xceG_kw/edit#gid=1935154626
+
+The same CSVs can be found in [samples/dataset-2016q4](samples/dataset-2016q4)
 
 
 #### Twilio
