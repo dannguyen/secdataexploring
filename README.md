@@ -16,7 +16,26 @@ https://www.sec.gov/dera/data/financial-statement-data-sets.html
 
 # Samples
 
-Twitter S-1:
-https://www.sec.gov/Archives/edgar/data/1418091/000119312513390321/d564001ds1.htm
 
+GoPro:
+
+- Edgar Index: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001500435
+    - With params: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001500435&type=&dateb=&owner=include&count=100&start=20
+    - S-1: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001500435&type=S-1&dateb=&owner=include&count=100
+- Original S-1: https://www.sec.gov/Archives/edgar/data/1500435/000119312514204902/0001193125-14-204902-index.htm
+- S-1/A on 2014-11-17 (with XBRL): https://www.sec.gov/Archives/edgar/data/1500435/000119312514415127/0001193125-14-415127-index.htm
+
+
+Twitter S-1:
+
+- Index: https://www.sec.gov/Archives/edgar/data/1418091/000119312513390321/0001193125-13-390321-index.htm
+- HTML: https://www.sec.gov/Archives/edgar/data/1418091/000119312513390321/d564001ds1.htm
+- Text: https://www.sec.gov/Archives/edgar/data/1418091/000119312513390321/0001193125-13-390321.txt
+
+
+Pandora S-1:
+
+- Index: https://www.sec.gov/Archives/edgar/data/1230276/000119312511032963/0001193125-11-032963-index.htm
+- HTML: https://www.sec.gov/Archives/edgar/data/1230276/000119312511032963/ds1.htm
+- Text: https://www.sec.gov/Archives/edgar/data/1230276/000119312511032963/0001193125-11-032963.txt
 
