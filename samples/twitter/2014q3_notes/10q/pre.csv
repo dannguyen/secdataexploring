@@ -1,0 +1,585 @@
+adsh,report,line,stmt,inpth,rfile,tag,version,prole,plabel,negating
+0001564590-14-003474,2,29,BS,0,H,AccumulatedOtherComprehensiveIncomeLossNetOfTax,us-gaap/2013,terseLabel,Accumulated other comprehensive income (loss),0
+0001564590-14-003474,6,5,CF,0,H,AdjustmentsToReconcileNetIncomeLossToCashProvidedByUsedInOperatingActivitiesAbstract,us-gaap/2013,terseLabel,Adjustments to reconcile net loss to net cash provided by operating activities:,0
+0001564590-14-003474,2,14,BS,0,H,Assets,us-gaap/2013,totalLabel,Total assets,0
+0001564590-14-003474,2,3,BS,0,H,AssetsAbstract,us-gaap/2013,terseLabel,Assets,0
+0001564590-14-003474,2,25,BS,0,H,CommitmentsAndContingencies,us-gaap/2013,terseLabel,Commitments and contingencies (Note 11),0
+0001564590-14-003474,3,4,BS,1,H,CommonStockParOrStatedValuePerShare,us-gaap/2013,terseLabel,"Common stock, par value",0
+0001564590-14-003474,3,5,BS,1,H,CommonStockSharesAuthorized,us-gaap/2013,terseLabel,"Common stock, shares authorized",0
+0001564590-14-003474,3,6,BS,1,H,CommonStockSharesIssued,us-gaap/2013,terseLabel,"Common stock, shares issued",0
+0001564590-14-003474,45,24,,0,H,CommonStockSharesIssued,us-gaap/2013,terseLabel,"Common stock, shares issued",0
+0001564590-14-003474,2,27,BS,0,H,CommonStockValue,us-gaap/2013,terseLabel,"Common stock, $0.000005 par value-- 5,000,000 shares authorized; 612,682 and 569,922 shares issued and outstanding as of June 30, 2014 and December 31, 2013, respectively",0
+0001564590-14-003474,5,8,CI,0,H,ComprehensiveIncomeNetOfTax,us-gaap/2013,totalLabel,Comprehensive loss,0
+0001564590-14-003474,6,9,CF,0,H,DeferredIncomeTaxExpenseBenefit,us-gaap/2013,terseLabel,Deferred income tax benefit,0
+0001564590-14-003474,4,16,IS,0,H,EarningsPerShareAbstract,us-gaap/2013,terseLabel,Net loss per share attributable to common stockholders:,0
+0001564590-14-003474,43,11,,0,H,EarningsPerShareBasic,us-gaap/2013,terseLabel,Basic,0
+0001564590-14-003474,4,17,IS,0,H,EarningsPerShareBasic,us-gaap/2013,terseLabel,Basic,0
+0001564590-14-003474,43,12,,0,H,EarningsPerShareDiluted,us-gaap/2013,terseLabel,Diluted,0
+0001564590-14-003474,4,18,IS,0,H,EarningsPerShareDiluted,us-gaap/2013,terseLabel,Diluted,0
+0001564590-14-003474,6,34,CF,0,H,EffectOfExchangeRateOnCashAndCashEquivalents,us-gaap/2013,terseLabel,Foreign exchange effect on cash and cash equivalents,0
+0001564590-14-003474,4,14,IS,0,H,IncomeTaxExpenseBenefit,us-gaap/2013,terseLabel,Provision (benefit) for income taxes,0
+0001564590-14-003474,52,10,,0,H,IncomeTaxExpenseBenefit,us-gaap/2013,terseLabel,Provision (benefit) for income taxes,0
+0001564590-14-003474,6,12,CF,0,H,IncreaseDecreaseInOperatingCapitalAbstract,us-gaap/2013,terseLabel,"Changes in assets and liabilities, net of assets acquired and liabilities assumed from acquisitions:",0
+0001564590-14-003474,6,23,CF,0,H,IncreaseDecreaseInRestrictedCash,us-gaap/2013,negatedLabel,Restricted cash,1
+0001564590-14-003474,2,24,BS,0,H,Liabilities,us-gaap/2013,totalLabel,Total liabilities,0
+0001564590-14-003474,2,32,BS,0,H,LiabilitiesAndStockholdersEquity,us-gaap/2013,totalLabel,Total liabilities and stockholders' equity,0
+0001564590-14-003474,4,15,IS,0,H,NetIncomeLoss,us-gaap/2013,totalLabel,Net loss,0
+0001564590-14-003474,5,3,CI,0,H,NetIncomeLoss,us-gaap/2013,terseLabel,Net loss,0
+0001564590-14-003474,6,4,CF,0,H,NetIncomeLoss,us-gaap/2013,terseLabel,Net loss,0
+0001564590-14-003474,43,3,,0,H,NetIncomeLoss,us-gaap/2013,terseLabel,Net loss,0
+0001564590-14-003474,5,6,CI,0,H,OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax,us-gaap/2013,terseLabel,Foreign currency translation adjustment,0
+0001564590-14-003474,5,7,CI,0,H,OtherComprehensiveIncomeLossNetOfTax,us-gaap/2013,totalLabel,Net change in accumulated other comprehensive loss,0
+0001564590-14-003474,5,4,CI,0,H,OtherComprehensiveIncomeLossNetOfTaxPeriodIncreaseDecreaseAbstract,us-gaap/2013,terseLabel,Other comprehensive income (loss):,0
+0001564590-14-003474,6,21,CF,0,H,ProceedsFromMaturitiesPrepaymentsAndCallsOfAvailableForSaleSecurities,us-gaap/2013,terseLabel,Proceeds from maturities of marketable securities,0
+0001564590-14-003474,6,22,CF,0,H,ProceedsFromSaleOfAvailableForSaleSecurities,us-gaap/2013,terseLabel,Proceeds from sales of marketable securities,0
+0001564590-14-003474,2,30,BS,0,H,RetainedEarningsAccumulatedDeficit,us-gaap/2013,terseLabel,Accumulated deficit,0
+0001564590-14-003474,4,3,IS,0,H,Revenues,us-gaap/2013,terseLabel,Revenue,0
+0001564590-14-003474,56,11,,0,H,Revenues,us-gaap/2013,terseLabel,Revenue,0
+0001564590-14-003474,55,8,,0,H,Revenues,us-gaap/2013,terseLabel,Revenue,0
+0001564590-14-003474,55,7,,0,H,RevenuesAbstract,us-gaap/2013,terseLabel,Revenue:,0
+0001564590-14-003474,2,2,BS,0,H,StatementLineItems,us-gaap/2013,terseLabel,Statement [Line Items],0
+0001564590-14-003474,4,2,IS,0,H,StatementLineItems,us-gaap/2013,terseLabel,Statement [Line Items],0
+0001564590-14-003474,5,2,CI,0,H,StatementLineItems,us-gaap/2013,terseLabel,Statement [Line Items],0
+0001564590-14-003474,3,2,BS,1,H,StatementLineItems,us-gaap/2013,terseLabel,Statement [Line Items],0
+0001564590-14-003474,6,2,CF,0,H,StatementLineItems,us-gaap/2013,terseLabel,Statement [Line Items],0
+0001564590-14-003474,7,2,,0,H,StatementLineItems,us-gaap/2013,terseLabel,Statement [Line Items],0
+0001564590-14-003474,8,2,,0,H,StatementLineItems,us-gaap/2013,terseLabel,Statement [Line Items],0
+0001564590-14-003474,9,2,,0,H,StatementLineItems,us-gaap/2013,terseLabel,Statement [Line Items],0
+0001564590-14-003474,10,2,,0,H,StatementLineItems,us-gaap/2013,terseLabel,Statement [Line Items],0
+0001564590-14-003474,11,2,,0,H,StatementLineItems,us-gaap/2013,terseLabel,Statement [Line Items],0
+0001564590-14-003474,12,2,,0,H,StatementLineItems,us-gaap/2013,terseLabel,Statement [Line Items],0
+0001564590-14-003474,13,2,,0,H,StatementLineItems,us-gaap/2013,terseLabel,Statement [Line Items],0
+0001564590-14-003474,14,2,,0,H,StatementLineItems,us-gaap/2013,terseLabel,Statement [Line Items],0
+0001564590-14-003474,15,2,,0,H,StatementLineItems,us-gaap/2013,terseLabel,Statement [Line Items],0
+0001564590-14-003474,16,2,,0,H,StatementLineItems,us-gaap/2013,terseLabel,Statement [Line Items],0
+0001564590-14-003474,17,2,,0,H,StatementLineItems,us-gaap/2013,terseLabel,Statement [Line Items],0
+0001564590-14-003474,18,2,,0,H,StatementLineItems,us-gaap/2013,terseLabel,Statement [Line Items],0
+0001564590-14-003474,19,2,,0,H,StatementLineItems,us-gaap/2013,terseLabel,Statement [Line Items],0
+0001564590-14-003474,20,2,,0,H,StatementLineItems,us-gaap/2013,terseLabel,Statement [Line Items],0
+0001564590-14-003474,21,2,,0,H,StatementLineItems,us-gaap/2013,terseLabel,Statement [Line Items],0
+0001564590-14-003474,22,2,,0,H,StatementLineItems,us-gaap/2013,terseLabel,Statement [Line Items],0
+0001564590-14-003474,23,2,,0,H,StatementLineItems,us-gaap/2013,terseLabel,Statement [Line Items],0
+0001564590-14-003474,24,2,,0,H,StatementLineItems,us-gaap/2013,terseLabel,Statement [Line Items],0
+0001564590-14-003474,26,2,,0,H,StatementLineItems,us-gaap/2013,terseLabel,Statement [Line Items],0
+0001564590-14-003474,25,2,,0,H,StatementLineItems,us-gaap/2013,terseLabel,Statement [Line Items],0
+0001564590-14-003474,27,2,,0,H,StatementLineItems,us-gaap/2013,terseLabel,Statement [Line Items],0
+0001564590-14-003474,28,2,,0,H,StatementLineItems,us-gaap/2013,terseLabel,Statement [Line Items],0
+0001564590-14-003474,29,2,,0,H,StatementLineItems,us-gaap/2013,terseLabel,Statement [Line Items],0
+0001564590-14-003474,30,2,,0,H,StatementLineItems,us-gaap/2013,terseLabel,Statement [Line Items],0
+0001564590-14-003474,30,1,,0,H,StatementTable,us-gaap/2013,terseLabel,Statement [Table],0
+0001564590-14-003474,28,1,,0,H,StatementTable,us-gaap/2013,terseLabel,Statement [Table],0
+0001564590-14-003474,29,1,,0,H,StatementTable,us-gaap/2013,terseLabel,Statement [Table],0
+0001564590-14-003474,26,1,,0,H,StatementTable,us-gaap/2013,terseLabel,Statement [Table],0
+0001564590-14-003474,27,1,,0,H,StatementTable,us-gaap/2013,terseLabel,Statement [Table],0
+0001564590-14-003474,24,1,,0,H,StatementTable,us-gaap/2013,terseLabel,Statement [Table],0
+0001564590-14-003474,25,1,,0,H,StatementTable,us-gaap/2013,terseLabel,Statement [Table],0
+0001564590-14-003474,22,1,,0,H,StatementTable,us-gaap/2013,terseLabel,Statement [Table],0
+0001564590-14-003474,23,1,,0,H,StatementTable,us-gaap/2013,terseLabel,Statement [Table],0
+0001564590-14-003474,20,1,,0,H,StatementTable,us-gaap/2013,terseLabel,Statement [Table],0
+0001564590-14-003474,21,1,,0,H,StatementTable,us-gaap/2013,terseLabel,Statement [Table],0
+0001564590-14-003474,18,1,,0,H,StatementTable,us-gaap/2013,terseLabel,Statement [Table],0
+0001564590-14-003474,19,1,,0,H,StatementTable,us-gaap/2013,terseLabel,Statement [Table],0
+0001564590-14-003474,16,1,,0,H,StatementTable,us-gaap/2013,terseLabel,Statement [Table],0
+0001564590-14-003474,17,1,,0,H,StatementTable,us-gaap/2013,terseLabel,Statement [Table],0
+0001564590-14-003474,14,1,,0,H,StatementTable,us-gaap/2013,terseLabel,Statement [Table],0
+0001564590-14-003474,15,1,,0,H,StatementTable,us-gaap/2013,terseLabel,Statement [Table],0
+0001564590-14-003474,12,1,,0,H,StatementTable,us-gaap/2013,terseLabel,Statement [Table],0
+0001564590-14-003474,13,1,,0,H,StatementTable,us-gaap/2013,terseLabel,Statement [Table],0
+0001564590-14-003474,10,1,,0,H,StatementTable,us-gaap/2013,terseLabel,Statement [Table],0
+0001564590-14-003474,11,1,,0,H,StatementTable,us-gaap/2013,terseLabel,Statement [Table],0
+0001564590-14-003474,8,1,,0,H,StatementTable,us-gaap/2013,terseLabel,Statement [Table],0
+0001564590-14-003474,9,1,,0,H,StatementTable,us-gaap/2013,terseLabel,Statement [Table],0
+0001564590-14-003474,7,1,,0,H,StatementTable,us-gaap/2013,terseLabel,Statement [Table],0
+0001564590-14-003474,3,1,BS,1,H,StatementTable,us-gaap/2013,terseLabel,Statement [Table],0
+0001564590-14-003474,5,1,CI,0,H,StatementTable,us-gaap/2013,terseLabel,Statement [Table],0
+0001564590-14-003474,6,1,CF,0,H,StatementTable,us-gaap/2013,terseLabel,Statement [Table],0
+0001564590-14-003474,4,1,IS,0,H,StatementTable,us-gaap/2013,terseLabel,Statement [Table],0
+0001564590-14-003474,2,1,BS,0,H,StatementTable,us-gaap/2013,terseLabel,Statement [Table],0
+0001564590-14-003474,2,31,BS,0,H,StockholdersEquity,us-gaap/2013,totalLabel,Total stockholders' equity,0
+0001564590-14-003474,2,26,BS,0,H,StockholdersEquityAbstract,us-gaap/2013,terseLabel,Stockholders' equity:,0
+0001564590-14-003474,6,37,CF,0,H,SupplementalCashFlowInformationAbstract,us-gaap/2013,terseLabel,Supplemental disclosures of non-cash investing and financing activities,0
+0001564590-14-003474,43,9,,0,H,WeightedAverageNumberOfDilutedSharesOutstanding,us-gaap/2013,verboseLabel,Weighted-average shares used to compute diluted net loss per share,0
+0001564590-14-003474,4,21,IS,0,H,WeightedAverageNumberOfDilutedSharesOutstanding,us-gaap/2013,terseLabel,Diluted,0
+0001564590-14-003474,4,19,IS,0,H,WeightedAverageNumberOfSharesOutstandingAbstract,us-gaap/2013,terseLabel,Weighted-average shares used to compute net loss per share attributable to common stockholders:,0
+0001564590-14-003474,4,20,IS,0,H,WeightedAverageNumberOfSharesOutstandingBasic,us-gaap/2013,terseLabel,Basic,0
+0001564590-14-003474,43,7,,0,H,WeightedAverageNumberOfSharesOutstandingBasic,us-gaap/2013,totalLabel,Weighted-average shares used to compute basic net loss per share,0
+0001564590-14-003474,2,7,BS,0,H,AccountsReceivableNetCurrent,us-gaap/2013,terseLabel,"Accounts receivable, net of allowance for doubtful accounts of $2,920 and $2,020 as of June 30, 2014 and December 31, 2013, respectively",0
+0001564590-14-003474,52,14,,0,H,AdjustmentsToAdditionalPaidInCapitalTaxEffectFromShareBasedCompensation,us-gaap/2013,terseLabel,Excess tax benefits from restricted stock,0
+0001564590-14-003474,2,9,BS,0,H,AssetsCurrent,us-gaap/2013,totalLabel,Total current assets,0
+0001564590-14-003474,2,4,BS,0,H,AssetsCurrentAbstract,us-gaap/2013,terseLabel,Current assets:,0
+0001564590-14-003474,2,5,BS,0,H,CashAndCashEquivalentsAtCarryingValue,us-gaap/2013,terseLabel,Cash and cash equivalents,0
+0001564590-14-003474,6,35,CF,0,H,CashAndCashEquivalentsAtCarryingValue,us-gaap/2013,periodStartLabel,Cash and cash equivalents at beginning of period,0
+0001564590-14-003474,6,36,CF,0,H,CashAndCashEquivalentsAtCarryingValue,us-gaap/2013,periodEndLabel,Cash and cash equivalents at end of period,0
+0001564590-14-003474,31,10,,0,H,CashAndCashEquivalentsAtCarryingValue,us-gaap/2013,terseLabel,Cash and cash equivalents,0
+0001564590-14-003474,6,33,CF,0,H,CashAndCashEquivalentsPeriodIncreaseDecrease,us-gaap/2013,totalLabel,Net increase (decrease) in cash and cash equivalents,0
+0001564590-14-003474,6,6,CF,0,H,DepreciationAndAmortization,us-gaap/2013,terseLabel,Depreciation and amortization,0
+0001564590-14-003474,4,8,IS,0,H,GeneralAndAdministrativeExpense,us-gaap/2013,terseLabel,General and administrative,0
+0001564590-14-003474,2,12,BS,0,H,Goodwill,us-gaap/2013,terseLabel,Goodwill,0
+0001564590-14-003474,36,7,,0,H,Goodwill,us-gaap/2013,periodStartLabel,Beginning balance,0
+0001564590-14-003474,36,10,,0,H,Goodwill,us-gaap/2013,periodEndLabel,Ending balance,0
+0001564590-14-003474,42,22,,0,H,Goodwill,us-gaap/2013,terseLabel,Goodwill,0
+0001564590-14-003474,4,13,IS,0,H,IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,us-gaap/2013,totalLabel,Loss before income taxes,0
+0001564590-14-003474,6,13,CF,0,H,IncreaseDecreaseInAccountsReceivable,us-gaap/2013,negatedLabel,Accounts receivable,1
+0001564590-14-003474,2,11,BS,0,H,IntangibleAssetsNetExcludingGoodwill,us-gaap/2013,terseLabel,Intangible assets,0
+0001564590-14-003474,2,15,BS,0,H,LiabilitiesAndStockholdersEquityAbstract,us-gaap/2013,terseLabel,Liabilities and stockholders' equity,0
+0001564590-14-003474,2,20,BS,0,H,LiabilitiesCurrent,us-gaap/2013,totalLabel,Total current liabilities,0
+0001564590-14-003474,2,16,BS,0,H,LiabilitiesCurrentAbstract,us-gaap/2013,terseLabel,Current liabilities:,0
+0001564590-14-003474,4,10,IS,0,H,OperatingIncomeLoss,us-gaap/2013,totalLabel,Loss from operations,0
+0001564590-14-003474,57,8,,0,H,PropertyPlantAndEquipmentNet,us-gaap/2013,terseLabel,"Property and equipment, net",0
+0001564590-14-003474,2,10,BS,0,H,PropertyPlantAndEquipmentNet,us-gaap/2013,terseLabel,"Property and equipment, net",0
+0001564590-14-003474,35,12,,0,H,PropertyPlantAndEquipmentNet,us-gaap/2013,totalLabel,"Property and equipment, net",0
+0001564590-14-003474,4,6,IS,0,H,ResearchAndDevelopmentExpense,us-gaap/2013,terseLabel,Research and development,0
+0001564590-14-003474,4,7,IS,0,H,SellingAndMarketingExpense,us-gaap/2013,terseLabel,Sales and marketing,0
+0001564590-14-003474,6,7,CF,0,H,ShareBasedCompensation,us-gaap/2013,terseLabel,Stock-based compensation expense,0
+0001564590-14-003474,50,9,,0,H,ShareBasedCompensation,us-gaap/2013,terseLabel,Stock-based compensation expense,0
+0001564590-14-003474,49,7,,0,H,ShareBasedCompensation,us-gaap/2013,terseLabel,Stock-based compensation expense,0
+0001564590-14-003474,2,6,BS,0,H,ShortTermInvestments,us-gaap/2013,terseLabel,Short-term investments,0
+0001564590-14-003474,31,12,,0,H,ShortTermInvestments,us-gaap/2013,terseLabel,Short-term investments,0
+0001564590-14-003474,32,10,,0,H,ShortTermInvestments,us-gaap/2013,totalLabel,Aggregated Estimated Fair Value,0
+0001564590-14-003474,2,17,BS,0,H,AccountsPayableCurrent,us-gaap/2013,terseLabel,Accounts payable,0
+0001564590-14-003474,35,11,,0,H,AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment,us-gaap/2013,negatedLabel,Less: Accumulated depreciation and amortization,1
+0001564590-14-003474,38,3,,0,H,AmortizationOfIntangibleAssets,us-gaap/2013,terseLabel,Amortization of intangible assets,0
+0001564590-14-003474,41,3,,0,H,EmployeeRelatedLiabilitiesCurrent,us-gaap/2013,terseLabel,Accrued compensation,0
+0001564590-14-003474,6,14,CF,0,H,IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,us-gaap/2013,negatedLabel,Prepaid expenses and other assets,1
+0001564590-14-003474,2,13,BS,0,H,OtherAssetsNoncurrent,us-gaap/2013,terseLabel,Other assets,0
+0001564590-14-003474,2,23,BS,0,H,OtherLiabilitiesNoncurrent,us-gaap/2013,terseLabel,Other long-term liabilities,0
+0001564590-14-003474,4,12,IS,0,H,OtherNonoperatingIncomeExpense,us-gaap/2013,terseLabel,"Other income (expense), net",0
+0001564590-14-003474,6,19,CF,0,H,PaymentsToAcquireProductiveAssets,us-gaap/2013,negatedLabel,Purchases of property and equipment,1
+0001564590-14-003474,2,8,BS,0,H,PrepaidExpenseAndOtherAssetsCurrent,us-gaap/2013,terseLabel,Prepaid expenses and other current assets,0
+0001564590-14-003474,40,5,,0,H,PrepaidExpenseAndOtherAssetsCurrent,us-gaap/2013,totalLabel,Total,0
+0001564590-14-003474,35,10,,0,H,PropertyPlantAndEquipmentGross,us-gaap/2013,terseLabel,"Property and equipment, gross",0
+0001564590-14-003474,57,7,,0,H,PropertyPlantAndEquipmentNetAbstract,us-gaap/2013,terseLabel,Long-lived assets:,0
+0001564590-14-003474,41,8,,0,H,TaxesPayableCurrent,us-gaap/2013,terseLabel,Accrued tax liabilities,0
+0001564590-14-003474,3,7,BS,1,H,CommonStockSharesOutstanding,us-gaap/2013,terseLabel,"Common stock, shares outstanding",0
+0001564590-14-003474,4,9,IS,0,H,CostsAndExpenses,us-gaap/2013,totalLabel,Total costs and expenses,0
+0001564590-14-003474,6,15,CF,0,H,IncreaseDecreaseInAccountsPayable,us-gaap/2013,terseLabel,Accounts payable,0
+0001564590-14-003474,6,32,CF,0,H,NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,us-gaap/2013,totalLabel,Net cash used in financing activities,0
+0001564590-14-003474,6,26,CF,0,H,NetCashProvidedByUsedInFinancingActivitiesContinuingOperationsAbstract,us-gaap/2013,terseLabel,Cash flows from financing activities,0
+0001564590-14-003474,6,25,CF,0,H,NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,us-gaap/2013,totalLabel,Net cash used in investing activities,0
+0001564590-14-003474,6,18,CF,0,H,NetCashProvidedByUsedInInvestingActivitiesContinuingOperationsAbstract,us-gaap/2013,terseLabel,Cash flows from investing activities,0
+0001564590-14-003474,6,17,CF,0,H,NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,us-gaap/2013,totalLabel,Net cash provided by operating activities,0
+0001564590-14-003474,6,3,CF,0,H,NetCashProvidedByUsedInOperatingActivitiesContinuingOperationsAbstract,us-gaap/2013,terseLabel,Cash flows from operating activities,0
+0001564590-14-003474,47,6,,0,H,StockIssuedDuringPeriodSharesStockOptionsExercised,us-gaap/2013,negatedLabel,Options exercised,1
+0001564590-14-003474,2,18,BS,0,H,AccruedLiabilitiesCurrent,us-gaap/2013,terseLabel,Accrued and other current liabilities,0
+0001564590-14-003474,41,10,,0,H,AccruedLiabilitiesCurrent,us-gaap/2013,totalLabel,Total,0
+0001564590-14-003474,3,3,BS,1,H,AllowanceForDoubtfulAccountsReceivableCurrent,us-gaap/2013,terseLabel,Allowance for doubtful accounts receivable,0
+0001564590-14-003474,31,9,,0,H,CashAndCashEquivalentsAtCarryingValueAbstract,us-gaap/2013,terseLabel,Cash and cash equivalents:,0
+0001564590-14-003474,4,5,IS,0,H,CostOfRevenue,us-gaap/2013,terseLabel,Cost of revenue,0
+0001564590-14-003474,6,24,CF,0,H,PaymentsToAcquireBusinessesNetOfCashAcquired,us-gaap/2013,negatedLabel,"Business combinations, net of cash acquired",1
+0001564590-14-003474,6,27,CF,0,H,PaymentsRelatedToTaxWithholdingForShareBasedCompensation,us-gaap/2013,negatedLabel,Taxes paid related to net share settlement of equity awards,1
+0001564590-14-003474,45,25,,0,H,PaymentsRelatedToTaxWithholdingForShareBasedCompensation,us-gaap/2013,verboseLabel,Income taxes paid,0
+0001564590-14-003474,4,11,IS,0,H,InterestIncomeExpenseNet,us-gaap/2013,terseLabel,"Interest income (expense), net",0
+0001564590-14-003474,58,11,,0,H,PaymentsToAcquireBusinessesGross,us-gaap/2013,terseLabel,"Business acquisition, purchase price cash consideration",0
+0001564590-14-003474,42,15,,0,H,PaymentsToAcquireBusinessesGross,us-gaap/2013,terseLabel,"Business acquisition, purchase price cash consideration",0
+0001564590-14-003474,2,28,BS,0,H,AdditionalPaidInCapital,us-gaap/2013,terseLabel,Additional paid-in capital,0
+0001564590-14-003474,5,5,CI,0,H,OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax,us-gaap/2013,terseLabel,"Unrealized loss on investments in available-for-sale securities, net of tax",0
+0001564590-14-003474,6,20,CF,0,H,PaymentsToAcquireMarketableSecurities,us-gaap/2013,negatedLabel,Purchases of marketable securities,1
+0001564590-14-003474,6,8,CF,0,H,ProvisionForDoubtfulAccounts,us-gaap/2013,terseLabel,Provision for bad debt,0
+0001564590-14-003474,43,10,,0,H,EarningsPerShareBasicAndDilutedAbstract,us-gaap/2013,terseLabel,Net loss per share attributable to common stockholders:,0
+0001564590-14-003474,45,19,,0,H,RestrictedStockExpense,us-gaap/2013,terseLabel,Compensation expense related to restricted stock,0
+0001564590-14-003474,4,4,IS,0,H,CostsAndExpensesAbstract,us-gaap/2013,terseLabel,Costs and expenses,0
+0001564590-14-003474,6,29,CF,0,H,ProceedsFromRepurchaseOfEquity,us-gaap/2013,terseLabel,"Proceeds from exercise of stock options, net of repurchase",0
+0001564590-14-003474,2,19,BS,0,H,CapitalLeaseObligationsCurrent,us-gaap/2013,terseLabel,"Capital leases, short-term",0
+0001564590-14-003474,54,18,,0,H,CapitalLeaseObligationsCurrent,us-gaap/2013,verboseLabel,Less: Short-term portion,0
+0001564590-14-003474,54,19,,0,H,CapitalLeaseObligationsNoncurrent,us-gaap/2013,verboseLabel,Long-term portion,0
+0001564590-14-003474,2,21,BS,0,H,CapitalLeaseObligationsNoncurrent,us-gaap/2013,terseLabel,"Capital leases, long-term",0
+0001564590-14-003474,6,16,CF,0,H,IncreaseDecreaseInAccruedLiabilitiesAndOtherOperatingLiabilities,us-gaap/2013,terseLabel,Accrued and other liabilities,0
+0001564590-14-003474,41,5,,0,H,DeferredRevenueCurrent,us-gaap/2013,terseLabel,Deferred revenue,0
+0001564590-14-003474,39,9,,0,H,FiniteLivedIntangibleAssetsNet,us-gaap/2013,totalLabel,Net Carrying Value,0
+0001564590-14-003474,37,11,,0,H,FiniteLivedIntangibleAssetsNet,us-gaap/2013,totalLabel,Net Carrying Value,0
+0001564590-14-003474,34,23,,0,H,InvestmentsFairValueDisclosure,us-gaap/2013,terseLabel,Short-term investments,0
+0001564590-14-003474,37,10,,0,H,FiniteLivedIntangibleAssetsAccumulatedAmortization,us-gaap/2013,negatedLabel,Accumulated Amortization,1
+0001564590-14-003474,41,9,,0,H,OtherAccruedLiabilitiesCurrent,us-gaap/2013,terseLabel,Accrued other,0
+0001564590-14-003474,6,40,CF,0,H,CapitalExpendituresIncurredButNotYetPaid,us-gaap/2013,terseLabel,Changes in accrued equipment purchases,0
+0001564590-14-003474,43,8,,0,H,WeightedAverageNumberDilutedSharesOutstandingAdjustmentAbstract,us-gaap/2013,terseLabel,Diluted shares:,0
+0001564590-14-003474,45,29,,0,H,AllocatedShareBasedCompensationExpense,us-gaap/2013,terseLabel,Share-based compensation expense,0
+0001564590-14-003474,6,39,CF,0,H,CapitalLeaseObligationsIncurred,us-gaap/2013,terseLabel,Equipment purchases under capital leases,0
+0001564590-14-003474,41,7,,0,H,AccruedProfessionalFeesCurrent,us-gaap/2013,terseLabel,Accrued professional services,0
+0001564590-14-003474,6,11,CF,0,H,AdjustmentForAmortization,us-gaap/2013,terseLabel,Amortization of investment premium and other,0
+0001564590-14-003474,34,19,,0,H,AgencySecuritiesMember,us-gaap/2013,terseLabel,Agency Securities,0
+0001564590-14-003474,1,4,CP,0,H,AmendmentFlag,dei/2013,terseLabel,Amendment Flag,0
+0001564590-14-003474,6,10,CF,0,H,AmortizationOfAcquisitionCosts,us-gaap/2013,terseLabel,Non-cash acquisition-related costs,0
+0001564590-14-003474,44,10,,0,H,AntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareAmount,us-gaap/2013,terseLabel,Anti-dilutive securities excluded from the computation of diluted net income per share,0
+0001564590-14-003474,44,2,,0,H,AntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareByAntidilutiveSecuritiesAxis,us-gaap/2013,terseLabel,Antidilutive Securities,0
+0001564590-14-003474,43,2,,0,H,AntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareLineItems,us-gaap/2013,terseLabel,Antidilutive Securities Excluded From Computation Of Earnings Per Share [Line Items],0
+0001564590-14-003474,44,9,,0,H,AntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareLineItems,us-gaap/2013,terseLabel,Antidilutive Securities Excluded From Computation Of Earnings Per Share [Line Items],0
+0001564590-14-003474,44,3,,0,H,AntidilutiveSecuritiesNameDomain,us-gaap/2013,terseLabel,"Antidilutive Securities, Name",0
+0001564590-14-003474,34,24,,0,H,AssetsFairValueDisclosure,us-gaap/2013,terseLabel,Total,0
+0001564590-14-003474,34,21,,0,H,AssetsFairValueDisclosureAbstract,us-gaap/2013,terseLabel,Assets,0
+0001564590-14-003474,32,7,,0,H,AvailableForSaleSecuritiesAmortizedCost,us-gaap/2013,terseLabel,Gross Amortized Costs,0
+0001564590-14-003474,33,11,,0,H,AvailableForSaleSecuritiesContinuousUnrealizedLossPositionFairValue,us-gaap/2013,totalLabel,Total Fair Value,0
+0001564590-14-003474,33,7,,0,H,AvailableForSaleSecuritiesContinuousUnrealizedLossPositionLessThanTwelveMonthsFairValue,us-gaap/2013,terseLabel,"Less than 12 Months, Fair Value",0
+0001564590-14-003474,33,9,,0,H,AvailableForSaleSecuritiesContinuousUnrealizedLossPositionTwelveMonthsOrLongerFairValue,us-gaap/2013,terseLabel,"12 Months or Greater, Fair Value",0
+0001564590-14-003474,49,2,,0,H,AwardTypeAxis,us-gaap/2013,terseLabel,Award Type,0
+0001564590-14-003474,46,2,,0,H,AwardTypeAxis,us-gaap/2013,terseLabel,Award Type,0
+0001564590-14-003474,51,2,,0,H,AwardTypeAxis,us-gaap/2013,terseLabel,Award Type,0
+0001564590-14-003474,52,2,,0,H,AwardTypeAxis,us-gaap/2013,terseLabel,Award Type,0
+0001564590-14-003474,48,2,,0,H,AwardTypeAxis,us-gaap/2013,terseLabel,Award Type,0
+0001564590-14-003474,45,6,,0,H,AwardTypeAxis,us-gaap/2013,terseLabel,Award Type,0
+0001564590-14-003474,53,4,,0,H,BaseRateMember,us-gaap/2013,terseLabel,Base Rate,0
+0001564590-14-003474,20,3,,0,H,BasisOfAccountingPolicyPolicyTextBlock,us-gaap/2013,terseLabel,Basis of Presentation,0
+0001564590-14-003474,58,6,,0,H,BusinessAcquisitionAcquireeDomain,us-gaap/2013,terseLabel,"Business Acquisition, Acquiree",0
+0001564590-14-003474,36,3,,0,H,BusinessAcquisitionAcquireeDomain,us-gaap/2013,terseLabel,"Business Acquisition, Acquiree",0
+0001564590-14-003474,42,3,,0,H,BusinessAcquisitionAcquireeDomain,us-gaap/2013,terseLabel,"Business Acquisition, Acquiree",0
+0001564590-14-003474,42,2,,0,H,BusinessAcquisitionAxis,us-gaap/2013,terseLabel,Business Acquisition,0
+0001564590-14-003474,58,5,,0,H,BusinessAcquisitionAxis,us-gaap/2013,terseLabel,Business Acquisition,0
+0001564590-14-003474,36,2,,0,H,BusinessAcquisitionAxis,us-gaap/2013,terseLabel,Business Acquisition,0
+0001564590-14-003474,42,16,,0,H,BusinessAcquisitionEquityInterestsIssuedOrIssuableNumberOfSharesIssued,us-gaap/2013,terseLabel,"Business acquisition, common stock issued including shares of restricted stock",0
+0001564590-14-003474,58,10,,0,H,BusinessAcquisitionEquityInterestsIssuedOrIssuableNumberOfSharesIssued,us-gaap/2013,verboseLabel,"Business acquisition, common stock issued",0
+0001564590-14-003474,42,14,,0,H,BusinessAcquisitionLineItems,us-gaap/2013,terseLabel,Business Acquisition [Line Items],0
+0001564590-14-003474,42,18,,0,H,BusinessCombinationConsiderationTransferred1,us-gaap/2013,terseLabel,"Business Combination, Consideration Transferred",0
+0001564590-14-003474,42,25,,0,H,BusinessCombinationConsiderationTransferredEquityInterestsIssuedAndIssuable,us-gaap/2013,verboseLabel,"Business acquisition, common stock issued",0
+0001564590-14-003474,42,27,,0,H,BusinessCombinationContingentConsiderationLiability,us-gaap/2013,terseLabel,Fair value of contingent payment,0
+0001564590-14-003474,13,3,,0,H,BusinessCombinationDisclosureTextBlock,us-gaap/2013,terseLabel,Acquisitions,0
+0001564590-14-003474,42,23,,0,H,BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedAssets,us-gaap/2013,terseLabel,Acquisition purchase price allocated to assets,0
+0001564590-14-003474,42,21,,0,H,BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedDeferredTaxLiabilitiesNoncurrent,us-gaap/2013,terseLabel,Acquisition purchase price allocated to deferred tax liability,0
+0001564590-14-003474,42,19,,0,H,BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedIntangibles,us-gaap/2013,terseLabel,Acquisition purchase price allocated to finite lived intangible assets,0
+0001564590-14-003474,42,20,,0,H,BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedLiabilities,us-gaap/2013,terseLabel,Acquisition purchase price allocated to liability,0
+0001564590-14-003474,7,3,,0,H,BusinessDescriptionAndAccountingPoliciesTextBlock,us-gaap/2013,terseLabel,Description of Business and Summary of Significant Accounting Policies,0
+0001564590-14-003474,54,15,,0,H,CapitalLeasesFutureMinimumPaymentsDue,us-gaap/2013,totalLabel,Total,0
+0001564590-14-003474,54,11,,0,H,CapitalLeasesFutureMinimumPaymentsDueCurrent,us-gaap/2013,terseLabel,2015,0
+0001564590-14-003474,54,14,,0,H,CapitalLeasesFutureMinimumPaymentsDueInFourYears,us-gaap/2013,terseLabel,2018,0
+0001564590-14-003474,54,13,,0,H,CapitalLeasesFutureMinimumPaymentsDueInThreeYears,us-gaap/2013,terseLabel,2017,0
+0001564590-14-003474,54,12,,0,H,CapitalLeasesFutureMinimumPaymentsDueInTwoYears,us-gaap/2013,terseLabel,2016,0
+0001564590-14-003474,54,16,,0,H,CapitalLeasesFutureMinimumPaymentsInterestIncludedInPayments,us-gaap/2013,terseLabel,Less: Amounts representing interest,0
+0001564590-14-003474,54,17,,0,H,CapitalLeasesFutureMinimumPaymentsPresentValueOfNetMinimumPayments,us-gaap/2013,totalLabel,Total capital lease obligation,0
+0001564590-14-003474,54,10,,0,H,CapitalLeasesFutureMinimumPaymentsRemainderOfFiscalYear,us-gaap/2013,terseLabel,Remainder of 2014,0
+0001564590-14-003474,32,2,,0,H,CashAndCashEquivalentsAxis,us-gaap/2013,terseLabel,Cash and Cash Equivalents,0
+0001564590-14-003474,33,2,,0,H,CashAndCashEquivalentsAxis,us-gaap/2013,terseLabel,Cash and Cash Equivalents,0
+0001564590-14-003474,31,2,,0,H,CashAndCashEquivalentsAxis,us-gaap/2013,terseLabel,Cash and Cash Equivalents,0
+0001564590-14-003474,34,22,,0,H,CashAndCashEquivalentsFairValueDisclosure,us-gaap/2013,terseLabel,Cash equivalents,0
+0001564590-14-003474,31,8,,0,H,CashAndCashEquivalentsLineItems,us-gaap/2013,terseLabel,Cash And Cash Equivalents [Line Items],0
+0001564590-14-003474,8,3,,0,H,CashCashEquivalentsAndShortTermInvestmentsTextBlock,us-gaap/2013,terseLabel,"Cash, Cash Equivalents and Short-term Investments",0
+0001564590-14-003474,31,4,,0,H,CashMember,us-gaap/2013,terseLabel,Cash,0
+0001564590-14-003474,34,16,,0,H,CertificatesOfDepositMember,us-gaap/2013,terseLabel,Certificates of Deposit,0
+0001564590-14-003474,34,13,,0,H,CommercialPaperMember,us-gaap/2013,terseLabel,Commercial Paper,0
+0001564590-14-003474,17,3,,0,H,CommitmentsAndContingenciesDisclosureTextBlock,us-gaap/2013,terseLabel,Commitments and Contingencies,0
+0001564590-14-003474,45,23,,0,H,CommonStockCapitalSharesReservedForFutureIssuance,us-gaap/2013,terseLabel,"Common stock, capital shares reserved for future issuance",0
+0001564590-14-003474,56,3,,0,H,ConcentrationRiskBenchmarkDomain,us-gaap/2013,terseLabel,Concentration Risk Benchmark,0
+0001564590-14-003474,56,2,,0,H,ConcentrationRiskByBenchmarkAxis,us-gaap/2013,terseLabel,Concentration Risk Benchmark,0
+0001564590-14-003474,35,7,,0,H,ConstructionInProgressMember,us-gaap/2013,terseLabel,Construction in Progress,0
+0001564590-14-003474,28,3,,0,H,ContractualObligationFiscalYearMaturityScheduleTableTextBlock,us-gaap/2013,terseLabel,Minimum Commitments Under Non-Cancelable Capital and Operating Lease Agreements,0
+0001564590-14-003474,34,15,,0,H,CorporateNoteSecuritiesMember,us-gaap/2013,terseLabel,Corporate Notes,0
+0001564590-14-003474,50,4,,0,H,CostOfSalesMember,us-gaap/2013,terseLabel,Cost of Revenue,0
+0001564590-14-003474,1,11,CP,0,H,CurrentFiscalYearEndDate,dei/2013,terseLabel,Current Fiscal Year End Date,0
+0001564590-14-003474,42,9,,0,H,CustomerRelationshipsMember,us-gaap/2013,terseLabel,Customer Relationships,0
+0001564590-14-003474,53,14,,0,H,DebtInstrumentBasisSpreadOnVariableRate1,us-gaap/2013,terseLabel,"Line of credit facility, interest rate",0
+0001564590-14-003474,25,3,,0,H,DeferredCostsCapitalizedPrepaidAndOtherAssetsDisclosureTextBlock,us-gaap/2013,terseLabel,Prepaid and Other Current Assets,0
+0001564590-14-003474,40,3,,0,H,DeferredIncomeTaxesAndOtherAssetsCurrent,us-gaap/2013,terseLabel,"Deferred income taxes, net",0
+0001564590-14-003474,2,22,BS,0,H,DeferredIncomeTaxesAndOtherTaxLiabilitiesNoncurrent,us-gaap/2013,terseLabel,"Deferred and other long-term tax liabilities, net",0
+0001564590-14-003474,42,8,,0,H,DevelopedTechnologyRightsMember,us-gaap/2013,terseLabel,Developed Technology Rights,0
+0001564590-14-003474,27,6,,0,H,DisclosureOfShareBasedCompensationArrangementsByShareBasedPaymentAwardTextBlock,us-gaap/2013,terseLabel,Stock-Based Compensation Expense Recorded for Employee and Non-Employee Stock Options,0
+0001564590-14-003474,1,7,CP,0,H,DocumentFiscalPeriodFocus,dei/2013,terseLabel,Document Fiscal Period Focus,0
+0001564590-14-003474,1,6,CP,0,H,DocumentFiscalYearFocus,dei/2013,terseLabel,Document Fiscal Year Focus,0
+0001564590-14-003474,1,5,CP,0,H,DocumentPeriodEndDate,dei/2013,terseLabel,Document Period End Date,0
+0001564590-14-003474,1,3,CP,0,H,DocumentType,dei/2013,terseLabel,Document Type,0
+0001564590-14-003474,52,7,,0,H,DomesticCountryMember,us-gaap/2013,terseLabel,Federal,0
+0001564590-14-003474,14,3,,0,H,EarningsPerShareTextBlock,us-gaap/2013,terseLabel,Net Loss Per Share,0
+0001564590-14-003474,45,32,,0,H,EmployeeServiceShareBasedCompensationAllocationOfRecognizedPeriodCostsCapitalizedAmount,us-gaap/2013,terseLabel,"Share-based compensation, capitalized amount",0
+0001564590-14-003474,45,17,,0,H,EmployeeServiceShareBasedCompensationAllocationOfRecognizedPeriodCostsLineItems,us-gaap/2013,terseLabel,Employee Service Share Based Compensation Allocation Of Recognized Period Costs [Line Items],0
+0001564590-14-003474,47,2,,0,H,EmployeeServiceShareBasedCompensationAllocationOfRecognizedPeriodCostsLineItems,us-gaap/2013,terseLabel,Employee Service Share Based Compensation Allocation Of Recognized Period Costs [Line Items],0
+0001564590-14-003474,45,35,,0,H,EmployeeServiceShareBasedCompensationNonvestedAwardsTotalCompensationCostNotYetRecognized,us-gaap/2013,verboseLabel,"Unamortized stock-based compensation expense, ESPP",0
+0001564590-14-003474,42,29,,0,H,EmployeeServiceShareBasedCompensationNonvestedAwardsTotalCompensationCostNotYetRecognized,us-gaap/2013,terseLabel,Unrecognized share-based compensation expense,0
+0001564590-14-003474,45,21,,0,H,EmployeeServiceShareBasedCompensationNonvestedAwardsTotalCompensationCostNotYetRecognizedPeriodForRecognition1,us-gaap/2013,terseLabel,"Unamortized stock-based compensation expense, weighted average recognition period",0
+0001564590-14-003474,45,20,,0,H,EmployeeServiceShareBasedCompensationNonvestedAwardsTotalCompensationCostNotYetRecognizedShareBasedAwardsOtherThanOptions,us-gaap/2013,terseLabel,Unamortized stock-based compensation expense related to restricted stock,0
+0001564590-14-003474,45,34,,0,H,EmployeeServiceShareBasedCompensationNonvestedAwardsTotalCompensationCostNotYetRecognizedStockOptions,us-gaap/2013,terseLabel,Unamortized share-based compensation expense related to unvested stock options,0
+0001564590-14-003474,45,14,,0,H,EmployeeStockMember,us-gaap/2013,terseLabel,Employee Stock Purchase Plans,0
+0001564590-14-003474,44,6,,0,H,EmployeeStockMember,us-gaap/2013,terseLabel,Employee Stock Purchase Plans,0
+0001564590-14-003474,45,15,,0,H,EmployeeStockOptionMember,us-gaap/2013,terseLabel,Employee Stock Option,0
+0001564590-14-003474,51,4,,0,H,EmployeeStockOptionMember,us-gaap/2013,terseLabel,Employee Stock Option,0
+0001564590-14-003474,1,10,CP,0,H,EntityCentralIndexKey,dei/2013,terseLabel,Entity Central Index Key,0
+0001564590-14-003474,1,13,CP,0,H,EntityCommonStockSharesOutstanding,dei/2013,terseLabel,"Entity Common Stock, Shares Outstanding",0
+0001564590-14-003474,1,12,CP,0,H,EntityFilerCategory,dei/2013,terseLabel,Entity Filer Category,0
+0001564590-14-003474,1,9,CP,0,H,EntityRegistrantName,dei/2013,terseLabel,Entity Registrant Name,0
+0001564590-14-003474,35,4,,0,H,EquipmentMember,us-gaap/2013,terseLabel,Equipment,0
+0001564590-14-003474,34,20,,0,H,FairValueAssetsAndLiabilitiesMeasuredOnRecurringAndNonrecurringBasisLineItems,us-gaap/2013,terseLabel,Fair Value Assets And Liabilities Measured On Recurring And Nonrecurring Basis [Line Items],0
+0001564590-14-003474,34,1,,0,H,FairValueAssetsAndLiabilitiesMeasuredOnRecurringAndNonrecurringBasisTable,us-gaap/2013,terseLabel,Fair Value Assets And Liabilities Measured On Recurring And Nonrecurring Basis [Table],0
+0001564590-14-003474,34,2,,0,H,FairValueByFairValueHierarchyLevelAxis,us-gaap/2013,terseLabel,"Fair Value, Hierarchy",0
+0001564590-14-003474,34,6,,0,H,FairValueByMeasurementFrequencyAxis,us-gaap/2013,terseLabel,Measurement Frequency,0
+0001564590-14-003474,9,3,,0,H,FairValueDisclosuresTextBlock,us-gaap/2013,terseLabel,Fair Value Measurements,0
+0001564590-14-003474,34,4,,0,H,FairValueInputsLevel1Member,us-gaap/2013,terseLabel,Level 1,0
+0001564590-14-003474,34,5,,0,H,FairValueInputsLevel2Member,us-gaap/2013,terseLabel,Level 2,0
+0001564590-14-003474,34,7,,0,H,FairValueMeasurementFrequencyDomain,us-gaap/2013,terseLabel,"Fair Value, Measurement Frequency",0
+0001564590-14-003474,34,3,,0,H,FairValueMeasurementsFairValueHierarchyDomain,us-gaap/2013,terseLabel,Fair Value Hierarchy,0
+0001564590-14-003474,34,8,,0,H,FairValueMeasurementsRecurringMember,us-gaap/2013,terseLabel,"Fair Value, Measurements, Recurring",0
+0001564590-14-003474,39,8,,0,H,FiniteLivedIntangibleAssetsAmortizationExpenseAfterYearFive,us-gaap/2013,terseLabel,Thereafter,0
+0001564590-14-003474,39,3,,0,H,FiniteLivedIntangibleAssetsAmortizationExpenseRemainderOfFiscalYear,us-gaap/2013,terseLabel,Remainder of 2014,0
+0001564590-14-003474,39,7,,0,H,FiniteLivedIntangibleAssetsAmortizationExpenseYearFive,us-gaap/2013,terseLabel,2018,0
+0001564590-14-003474,39,6,,0,H,FiniteLivedIntangibleAssetsAmortizationExpenseYearFour,us-gaap/2013,terseLabel,2017,0
+0001564590-14-003474,39,5,,0,H,FiniteLivedIntangibleAssetsAmortizationExpenseYearThree,us-gaap/2013,terseLabel,2016,0
+0001564590-14-003474,39,4,,0,H,FiniteLivedIntangibleAssetsAmortizationExpenseYearTwo,us-gaap/2013,terseLabel,2015,0
+0001564590-14-003474,37,2,,0,H,FiniteLivedIntangibleAssetsByMajorClassAxis,us-gaap/2013,terseLabel,Finite-Lived Intangible Assets by Major Class,0
+0001564590-14-003474,42,6,,0,H,FiniteLivedIntangibleAssetsByMajorClassAxis,us-gaap/2013,terseLabel,Finite-Lived Intangible Assets by Major Class,0
+0001564590-14-003474,37,9,,0,H,FiniteLivedIntangibleAssetsGross,us-gaap/2013,terseLabel,Gross Carrying Value,0
+0001564590-14-003474,38,2,,0,H,FiniteLivedIntangibleAssetsLineItems,us-gaap/2013,terseLabel,Finite Lived Intangible Assets [Line Items],0
+0001564590-14-003474,37,8,,0,H,FiniteLivedIntangibleAssetsLineItems,us-gaap/2013,terseLabel,Finite Lived Intangible Assets [Line Items],0
+0001564590-14-003474,39,2,,0,H,FiniteLivedIntangibleAssetsLineItems,us-gaap/2013,terseLabel,Finite Lived Intangible Assets [Line Items],0
+0001564590-14-003474,42,7,,0,H,FiniteLivedIntangibleAssetsMajorClassNameDomain,us-gaap/2013,terseLabel,"Finite-Lived Intangible Assets, Major Class Name",0
+0001564590-14-003474,37,3,,0,H,FiniteLivedIntangibleAssetsMajorClassNameDomain,us-gaap/2013,terseLabel,"Finite-Lived Intangible Assets, Major Class Name",0
+0001564590-14-003474,42,26,,0,H,FiniteLivedIntangibleAssetUsefulLife,us-gaap/2013,terseLabel,Estimated useful life of intangible assets,0
+0001564590-14-003474,56,8,,0,H,GB,country/2013,terseLabel,United Kingdom,0
+0001564590-14-003474,50,7,,0,H,GeneralAndAdministrativeExpenseMember,us-gaap/2013,terseLabel,General and Administrative,0
+0001564590-14-003474,36,8,,0,H,GoodwillAcquiredDuringPeriod,us-gaap/2013,terseLabel,Acquisition,0
+0001564590-14-003474,11,3,,0,H,GoodwillAndIntangibleAssetsDisclosureTextBlock,us-gaap/2013,terseLabel,Goodwill and Other Intangible Assets,0
+0001564590-14-003474,36,6,,0,H,GoodwillLineItems,us-gaap/2013,terseLabel,Goodwill [Line Items],0
+0001564590-14-003474,36,9,,0,H,GoodwillTranslationAdjustments,us-gaap/2013,terseLabel,Foreign currency translation adjustment,0
+0001564590-14-003474,50,2,,0,H,IncomeStatementLocationAxis,us-gaap/2013,terseLabel,Income Statement Location,0
+0001564590-14-003474,50,3,,0,H,IncomeStatementLocationDomain,us-gaap/2013,terseLabel,Income Statement Location,0
+0001564590-14-003474,52,5,,0,H,IncomeTaxAuthorityAxis,us-gaap/2013,terseLabel,Income Tax Authority,0
+0001564590-14-003474,52,6,,0,H,IncomeTaxAuthorityDomain,us-gaap/2013,terseLabel,Income Tax Authority,0
+0001564590-14-003474,52,9,,0,H,IncomeTaxContingencyLineItems,us-gaap/2013,terseLabel,Income Tax Contingency [Line Items],0
+0001564590-14-003474,52,1,,0,H,IncomeTaxContingencyTable,us-gaap/2013,terseLabel,Income Tax Contingency [Table],0
+0001564590-14-003474,16,3,,0,H,IncomeTaxDisclosureTextBlock,us-gaap/2013,terseLabel,Income Taxes,0
+0001564590-14-003474,34,9,,0,H,InvestmentTypeAxis,us-gaap/2013,terseLabel,Investment Type,0
+0001564590-14-003474,34,10,,0,H,InvestmentTypeCategorizationMember,us-gaap/2013,terseLabel,Investments,0
+0001564590-14-003474,53,11,,0,H,LineOfCreditFacilityCurrentBorrowingCapacity,us-gaap/2013,terseLabel,Unsecured revolving credit facility,0
+0001564590-14-003474,53,12,,0,H,LineOfCreditFacilityExpirationDate1,us-gaap/2013,terseLabel,"Line of credit facility, expiration date",0
+0001564590-14-003474,53,13,,0,H,LineOfCreditFacilityInterestRateDescription,us-gaap/2013,terseLabel,"Line of credit facility, interest rate description",0
+0001564590-14-003474,53,5,,0,H,LondonInterbankOfferedRateLIBORMember,us-gaap/2013,terseLabel,London Interbank Offered Rate (LIBOR),0
+0001564590-14-003474,29,4,,0,H,LongLivedAssetsByGeographicAreasTableTextBlock,us-gaap/2013,terseLabel,Long-lived Assets by Geographic Area,0
+0001564590-14-003474,53,9,,0,H,MaximumMember,us-gaap/2013,terseLabel,Maximum,0
+0001564590-14-003474,42,13,,0,H,MaximumMember,us-gaap/2013,terseLabel,Maximum,0
+0001564590-14-003474,45,5,,0,H,MaximumMember,us-gaap/2013,terseLabel,Maximum,0
+0001564590-14-003474,42,12,,0,H,MinimumMember,us-gaap/2013,terseLabel,Minimum,0
+0001564590-14-003474,53,8,,0,H,MinimumMember,us-gaap/2013,terseLabel,Minimum,0
+0001564590-14-003474,45,4,,0,H,MinimumMember,us-gaap/2013,terseLabel,Minimum,0
+0001564590-14-003474,31,5,,0,H,MoneyMarketFundsMember,us-gaap/2013,terseLabel,Money Market Funds,0
+0001564590-14-003474,34,11,,0,H,MoneyMarketFundsMember,us-gaap/2013,terseLabel,Money Market Funds,0
+0001564590-14-003474,20,5,,0,H,NewAccountingPronouncementsPolicyPolicyTextBlock,us-gaap/2013,terseLabel,Recent Accounting Pronouncements,0
+0001564590-14-003474,58,12,,0,H,NoncashOrPartNoncashAcquisitionNoncashFinancialOrEquityInstrumentConsiderationOptionsIssued1,us-gaap/2013,terseLabel,Acquired companies' employees' stock option,0
+0001564590-14-003474,27,3,,0,H,NonvestedRestrictedStockSharesActivityTableTextBlock,us-gaap/2013,terseLabel,Summary of Restricted Stock Activity,0
+0001564590-14-003474,57,4,,0,H,NorthAmericaMember,us-gaap/2013,terseLabel,United States,0
+0001564590-14-003474,55,4,,0,H,NorthAmericaMember,us-gaap/2013,terseLabel,United States,0
+0001564590-14-003474,42,24,,0,H,NumberOfBusinessesAcquired,us-gaap/2013,terseLabel,Number of businesses acquired,0
+0001564590-14-003474,58,9,,0,H,NumberOfBusinessesAcquired,us-gaap/2013,terseLabel,Number of businesses acquired,0
+0001564590-14-003474,54,9,,0,H,OperatingLeasesFutureMinimumPaymentsDue,us-gaap/2013,totalLabel,Total,0
+0001564590-14-003474,54,4,,0,H,OperatingLeasesFutureMinimumPaymentsDueCurrent,us-gaap/2013,terseLabel,2015,0
+0001564590-14-003474,54,7,,0,H,OperatingLeasesFutureMinimumPaymentsDueInFourYears,us-gaap/2013,terseLabel,2018,0
+0001564590-14-003474,54,6,,0,H,OperatingLeasesFutureMinimumPaymentsDueInThreeYears,us-gaap/2013,terseLabel,2017,0
+0001564590-14-003474,54,5,,0,H,OperatingLeasesFutureMinimumPaymentsDueInTwoYears,us-gaap/2013,terseLabel,2016,0
+0001564590-14-003474,54,8,,0,H,OperatingLeasesFutureMinimumPaymentsDueThereafter,us-gaap/2013,terseLabel,Thereafter,0
+0001564590-14-003474,54,3,,0,H,OperatingLeasesFutureMinimumPaymentsRemainderOfFiscalYear,us-gaap/2013,terseLabel,Remainder of 2014,0
+0001564590-14-003474,53,10,,0,H,OtherCommitmentsLineItems,us-gaap/2013,terseLabel,Other Commitments [Line Items],0
+0001564590-14-003474,53,1,,0,H,OtherCommitmentsTable,us-gaap/2013,terseLabel,Other Commitments [Table],0
+0001564590-14-003474,37,7,,0,H,OtherIntangibleAssetsMember,us-gaap/2013,terseLabel,Other Intangible Assets,0
+0001564590-14-003474,40,4,,0,H,OtherPrepaidExpenseCurrent,us-gaap/2013,terseLabel,Prepaid and other,0
+0001564590-14-003474,6,31,CF,0,H,PaymentsOfStockIssuanceCosts,us-gaap/2013,negatedLabel,Payments of offering costs,1
+0001564590-14-003474,6,30,CF,0,H,ProceedsFromIssuanceOfSharesUnderIncentiveAndShareBasedCompensationPlans,us-gaap/2013,terseLabel,Proceeds from issuances of common stock under employee stock purchase plan,0
+0001564590-14-003474,35,2,,0,H,PropertyPlantAndEquipmentByTypeAxis,us-gaap/2013,terseLabel,"Property, Plant and Equipment, Type",0
+0001564590-14-003474,10,3,,0,H,PropertyPlantAndEquipmentDisclosureTextBlock,us-gaap/2013,terseLabel,"Property and Equipment, Net",0
+0001564590-14-003474,35,8,,0,H,PropertyPlantAndEquipmentLineItems,us-gaap/2013,terseLabel,Property Plant And Equipment [Line Items],0
+0001564590-14-003474,35,9,,0,H,PropertyPlantAndEquipmentNetByTypeAbstract,us-gaap/2013,terseLabel,"Property and equipment, net",0
+0001564590-14-003474,23,3,,0,H,PropertyPlantAndEquipmentTextBlock,us-gaap/2013,terseLabel,"Schedule of Property and Equipment, Net",0
+0001564590-14-003474,35,3,,0,H,PropertyPlantAndEquipmentTypeDomain,us-gaap/2013,terseLabel,"Property, Plant and Equipment, Type",0
+0001564590-14-003474,42,10,,0,H,RangeAxis,us-gaap/2013,terseLabel,Range,0
+0001564590-14-003474,53,6,,0,H,RangeAxis,us-gaap/2013,terseLabel,Range,0
+0001564590-14-003474,45,2,,0,H,RangeAxis,us-gaap/2013,terseLabel,Range,0
+0001564590-14-003474,45,3,,0,H,RangeMember,us-gaap/2013,terseLabel,Range,0
+0001564590-14-003474,53,7,,0,H,RangeMember,us-gaap/2013,terseLabel,Range,0
+0001564590-14-003474,42,11,,0,H,RangeMember,us-gaap/2013,terseLabel,Range,0
+0001564590-14-003474,55,1,,0,H,ReconciliationOfRevenueFromSegmentsToConsolidatedTable,us-gaap/2013,terseLabel,Reconciliation Of Revenue From Segments To Consolidated [Table],0
+0001564590-14-003474,6,28,CF,0,H,RepaymentsOfLongTermCapitalLeaseObligations,us-gaap/2013,negatedLabel,Repayments of capital lease obligations,1
+0001564590-14-003474,50,5,,0,H,ResearchAndDevelopmentExpenseMember,us-gaap/2013,terseLabel,Research and Development,0
+0001564590-14-003474,31,3,,0,H,RestrictedCashAndCashEquivalentsCashAndCashEquivalentsMember,us-gaap/2013,terseLabel,Cash and Cash Equivalents,0
+0001564590-14-003474,33,3,,0,H,RestrictedCashAndCashEquivalentsCashAndCashEquivalentsMember,us-gaap/2013,terseLabel,Cash and Cash Equivalents,0
+0001564590-14-003474,32,3,,0,H,RestrictedCashAndCashEquivalentsCashAndCashEquivalentsMember,us-gaap/2013,terseLabel,Cash and Cash Equivalents,0
+0001564590-14-003474,44,7,,0,H,RestrictedStockMember,us-gaap/2013,terseLabel,Shares Subject to Repurchase,0
+0001564590-14-003474,46,4,,0,H,RestrictedStockMember,us-gaap/2013,verboseLabel,Restricted Common Stock,0
+0001564590-14-003474,45,8,,0,H,RestrictedStockMember,us-gaap/2013,verboseLabel,Restricted Common Stock,0
+0001564590-14-003474,45,9,,0,H,RestrictedStockMember,us-gaap/2013,terseLabel,Shares Subject to Repurchase,0
+0001564590-14-003474,44,5,,0,H,RestrictedStockUnitsRSUMember,us-gaap/2013,terseLabel,RSUs,0
+0001564590-14-003474,52,4,,0,H,RestrictedStockUnitsRSUMember,us-gaap/2013,verboseLabel,Restricted Common Stock,0
+0001564590-14-003474,48,4,,0,H,RestrictedStockUnitsRSUMember,us-gaap/2013,terseLabel,RSUs,0
+0001564590-14-003474,45,16,,0,H,RestrictedStockUnitsRSUMember,us-gaap/2013,terseLabel,RSUs,0
+0001564590-14-003474,29,3,,0,H,RevenueFromExternalCustomersByGeographicAreasTableTextBlock,us-gaap/2013,terseLabel,Revenue by Geography,0
+0001564590-14-003474,57,6,,0,H,RevenuesFromExternalCustomersAndLongLivedAssetsLineItems,us-gaap/2013,terseLabel,Revenues From External Customers And Long Lived Assets [Line Items],0
+0001564590-14-003474,56,10,,0,H,RevenuesFromExternalCustomersAndLongLivedAssetsLineItems,us-gaap/2013,terseLabel,Revenues From External Customers And Long Lived Assets [Line Items],0
+0001564590-14-003474,56,4,,0,H,SalesMember,us-gaap/2013,terseLabel,Sales,0
+0001564590-14-003474,56,5,,0,H,SalesRevenueNetMember,us-gaap/2013,terseLabel,Revenue,0
+0001564590-14-003474,25,4,,0,H,ScheduleOfAccruedLiabilitiesTableTextBlock,us-gaap/2013,terseLabel,Accrued and Other Current Liabilities,0
+0001564590-14-003474,44,1,,0,H,ScheduleOfAntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareTable,us-gaap/2013,terseLabel,Schedule Of Antidilutive Securities Excluded From Computation Of Earnings Per Share [Table],0
+0001564590-14-003474,43,1,,0,H,ScheduleOfAntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareTable,us-gaap/2013,terseLabel,Schedule Of Antidilutive Securities Excluded From Computation Of Earnings Per Share [Table],0
+0001564590-14-003474,26,4,,0,H,ScheduleOfAntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareTextBlock,us-gaap/2013,terseLabel,Summary of Potential Common Shares Excluded from Calculation of Diluted Net Loss Per Share Attributable to Common Stockholders,0
+0001564590-14-003474,33,6,,0,H,ScheduleOfAvailableForSaleSecuritiesLineItems,us-gaap/2013,terseLabel,Schedule Of Available For Sale Securities [Line Items],0
+0001564590-14-003474,32,6,,0,H,ScheduleOfAvailableForSaleSecuritiesLineItems,us-gaap/2013,terseLabel,Schedule Of Available For Sale Securities [Line Items],0
+0001564590-14-003474,32,1,,0,H,ScheduleOfAvailableForSaleSecuritiesTable,us-gaap/2013,terseLabel,Schedule Of Available For Sale Securities [Table],0
+0001564590-14-003474,33,1,,0,H,ScheduleOfAvailableForSaleSecuritiesTable,us-gaap/2013,terseLabel,Schedule Of Available For Sale Securities [Table],0
+0001564590-14-003474,42,1,,0,H,ScheduleOfBusinessAcquisitionsByAcquisitionTable,us-gaap/2013,terseLabel,Schedule Of Business Acquisitions By Acquisition [Table],0
+0001564590-14-003474,31,1,,0,H,ScheduleOfCashAndCashEquivalentsTable,us-gaap/2013,terseLabel,Schedule Of Cash And Cash Equivalents [Table],0
+0001564590-14-003474,21,3,,0,H,ScheduleOfCashCashEquivalentsAndShortTermInvestmentsTableTextBlock,us-gaap/2013,terseLabel,"Cash, Cash and Equivalents and Short-term Investments",0
+0001564590-14-003474,26,3,,0,H,ScheduleOfEarningsPerShareBasicAndDilutedTableTextBlock,us-gaap/2013,terseLabel,Basic and Diluted Net Loss Per Share,0
+0001564590-14-003474,47,1,,0,H,ScheduleOfEmployeeServiceShareBasedCompensationAllocationOfRecognizedPeriodCostsTable,us-gaap/2013,terseLabel,Schedule Of Employee Service Share Based Compensation Allocation Of Recognized Period Costs [Table],0
+0001564590-14-003474,45,1,,0,H,ScheduleOfEmployeeServiceShareBasedCompensationAllocationOfRecognizedPeriodCostsTable,us-gaap/2013,terseLabel,Schedule Of Employee Service Share Based Compensation Allocation Of Recognized Period Costs [Table],0
+0001564590-14-003474,50,1,,0,H,ScheduleOfEmployeeServiceShareBasedCompensationAllocationOfRecognizedPeriodCostsTable,us-gaap/2013,terseLabel,Schedule Of Employee Service Share Based Compensation Allocation Of Recognized Period Costs [Table],0
+0001564590-14-003474,49,1,,0,H,ScheduleOfEmployeeServiceShareBasedCompensationAllocationOfRecognizedPeriodCostsTable,us-gaap/2013,terseLabel,Schedule Of Employee Service Share Based Compensation Allocation Of Recognized Period Costs [Table],0
+0001564590-14-003474,46,1,,0,H,ScheduleOfEmployeeServiceShareBasedCompensationAllocationOfRecognizedPeriodCostsTable,us-gaap/2013,terseLabel,Schedule Of Employee Service Share Based Compensation Allocation Of Recognized Period Costs [Table],0
+0001564590-14-003474,48,1,,0,H,ScheduleOfEmployeeServiceShareBasedCompensationAllocationOfRecognizedPeriodCostsTable,us-gaap/2013,terseLabel,Schedule Of Employee Service Share Based Compensation Allocation Of Recognized Period Costs [Table],0
+0001564590-14-003474,27,7,,0,H,ScheduleOfEmployeeServiceShareBasedCompensationAllocationOfRecognizedPeriodCostsTextBlock,us-gaap/2013,terseLabel,Compensation Expense Allocated,0
+0001564590-14-003474,22,3,,0,H,ScheduleOfFairValueAssetsAndLiabilitiesMeasuredOnRecurringBasisTableTextBlock,us-gaap/2013,terseLabel,Schedule of Financial Assets and Liabilities Measured at Fair Value on Recurring Basis,0
+0001564590-14-003474,24,5,,0,H,ScheduleofFiniteLivedIntangibleAssetsFutureAmortizationExpenseTableTextBlock,us-gaap/2013,terseLabel,Schedule of Estimated Future Amortization Expenses,0
+0001564590-14-003474,39,1,,0,H,ScheduleOfFiniteLivedIntangibleAssetsTable,us-gaap/2013,terseLabel,Schedule Of Finite Lived Intangible Assets [Table],0
+0001564590-14-003474,37,1,,0,H,ScheduleOfFiniteLivedIntangibleAssetsTable,us-gaap/2013,terseLabel,Schedule Of Finite Lived Intangible Assets [Table],0
+0001564590-14-003474,38,1,,0,H,ScheduleOfFiniteLivedIntangibleAssetsTable,us-gaap/2013,terseLabel,Schedule Of Finite Lived Intangible Assets [Table],0
+0001564590-14-003474,24,4,,0,H,ScheduleOfFiniteLivedIntangibleAssetsTableTextBlock,us-gaap/2013,terseLabel,Schedule of Other Intangible Assets,0
+0001564590-14-003474,36,1,,0,H,ScheduleOfGoodwillTable,us-gaap/2013,terseLabel,Schedule Of Goodwill [Table],0
+0001564590-14-003474,24,3,,0,H,ScheduleOfGoodwillTextBlock,us-gaap/2013,terseLabel,Schedule of Goodwill Activities,0
+0001564590-14-003474,35,1,,0,H,ScheduleOfPropertyPlantAndEquipmentTable,us-gaap/2013,terseLabel,Schedule Of Property Plant And Equipment [Table],0
+0001564590-14-003474,56,1,,0,H,ScheduleOfRevenuesFromExternalCustomersAndLongLivedAssetsTable,us-gaap/2013,terseLabel,Schedule Of Revenues From External Customers And Long Lived Assets [Table],0
+0001564590-14-003474,57,1,,0,H,ScheduleOfRevenuesFromExternalCustomersAndLongLivedAssetsTable,us-gaap/2013,terseLabel,Schedule Of Revenues From External Customers And Long Lived Assets [Table],0
+0001564590-14-003474,51,1,,0,H,ScheduleOfShareBasedCompensationArrangementsByShareBasedPaymentAwardTable,us-gaap/2013,terseLabel,Schedule Of Share Based Compensation Arrangements By Share Based Payment Award [Table],0
+0001564590-14-003474,27,5,,0,H,ScheduleOfShareBasedCompensationRestrictedStockUnitsAwardActivityTableTextBlock,us-gaap/2013,terseLabel,Summary of RSU Activity,0
+0001564590-14-003474,27,4,,0,H,ScheduleOfShareBasedCompensationStockOptionsActivityTableTextBlock,us-gaap/2013,terseLabel,Summary of Stock Option Activity,0
+0001564590-14-003474,27,8,,0,H,ScheduleOfShareBasedPaymentAwardStockOptionsValuationAssumptionsTableTextBlock,us-gaap/2013,terseLabel,"Schedule of Share-based Payment Award, Valuation Assumptions",0
+0001564590-14-003474,21,5,,0,H,ScheduleOfUnrealizedLossOnInvestmentsTableTextBlock,us-gaap/2013,terseLabel,"Summary of Short-term Investments in Unrealized Loss Position and Related Gross Unrealized Losses and Fair Value, Aggregated by Investment Category and Length of Time",0
+0001564590-14-003474,55,3,,0,H,SegmentGeographicalDomain,us-gaap/2013,terseLabel,Geographical,0
+0001564590-14-003474,56,7,,0,H,SegmentGeographicalDomain,us-gaap/2013,terseLabel,Geographical,0
+0001564590-14-003474,57,3,,0,H,SegmentGeographicalDomain,us-gaap/2013,terseLabel,Geographical,0
+0001564590-14-003474,18,3,,0,H,SegmentReportingDisclosureTextBlock,us-gaap/2013,terseLabel,Operations by Geographic Area,0
+0001564590-14-003474,55,6,,0,H,SegmentReportingRevenueReconcilingItemLineItems,us-gaap/2013,terseLabel,Segment Reporting Revenue Reconciling Item [Line Items],0
+0001564590-14-003474,50,6,,0,H,SellingAndMarketingExpenseMember,us-gaap/2013,terseLabel,Sales and Marketing,0
+0001564590-14-003474,58,7,,0,H,SeriesOfIndividuallyImmaterialBusinessAcquisitionsMember,us-gaap/2013,terseLabel,Series of Individually Immaterial Business Acquisitions,0
+0001564590-14-003474,42,5,,0,H,SeriesOfIndividuallyImmaterialBusinessAcquisitionsMember,us-gaap/2013,verboseLabel,Other companies,0
+0001564590-14-003474,42,28,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardAwardRequisiteServicePeriod1,us-gaap/2013,terseLabel,Equity compensation service period,0
+0001564590-14-003474,45,18,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardAwardRequisiteServicePeriod1,us-gaap/2013,terseLabel,Equity compensation service period,0
+0001564590-14-003474,46,9,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsForfeitedInPeriod,us-gaap/2013,negatedLabel,"Number of Shares, Canceled",1
+0001564590-14-003474,48,9,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsForfeitedInPeriod,us-gaap/2013,negatedTerseLabel,"Shares, Canceled",1
+0001564590-14-003474,46,14,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsForfeituresWeightedAverageGrantDateFairValue,us-gaap/2013,terseLabel,"Weighted Average Grant Date Fair Value Per Share, Canceled",0
+0001564590-14-003474,48,15,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsForfeituresWeightedAverageGrantDateFairValue,us-gaap/2013,terseLabel,"Weighted Average Grant Date Fair Value Per Share, Canceled",0
+0001564590-14-003474,46,7,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriod,us-gaap/2013,terseLabel,"Number of Shares, Granted",0
+0001564590-14-003474,48,7,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriod,us-gaap/2013,verboseLabel,"Shares, Granted",0
+0001564590-14-003474,46,12,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriodWeightedAverageGrantDateFairValue,us-gaap/2013,terseLabel,"Weighted Average Grant Date Fair Value Per Share, Granted",0
+0001564590-14-003474,48,13,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriodWeightedAverageGrantDateFairValue,us-gaap/2013,terseLabel,"Weighted Average Grant Date Fair Value Per Share, Granted",0
+0001564590-14-003474,48,6,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedNumber,us-gaap/2013,periodStartLabel,"Number of Unvested Shares, beginning of period",0
+0001564590-14-003474,48,10,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedNumber,us-gaap/2013,periodEndLabel,"Number of Unvested Shares, end of period",0
+0001564590-14-003474,46,6,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedNumber,us-gaap/2013,periodStartLabel,"Number of Unvested Shares, beginning of period",0
+0001564590-14-003474,46,10,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedNumber,us-gaap/2013,periodEndLabel,"Number of Unvested Shares, end of period",0
+0001564590-14-003474,48,12,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedWeightedAverageGrantDateFairValue,us-gaap/2013,periodStartLabel,"Weighted Average Grant Date Fair Value Per Share, beginning of period",0
+0001564590-14-003474,48,16,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedWeightedAverageGrantDateFairValue,us-gaap/2013,periodEndLabel,"Weighted Average Grant Date Fair Value Per Share, end of period",0
+0001564590-14-003474,46,11,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedWeightedAverageGrantDateFairValue,us-gaap/2013,periodStartLabel,"Weighted Average Grant Date Fair Value Per Share, beginning of period",0
+0001564590-14-003474,46,15,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedWeightedAverageGrantDateFairValue,us-gaap/2013,periodEndLabel,"Weighted Average Grant Date Fair Value Per Share, end of period",0
+0001564590-14-003474,48,8,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVestedInPeriod,us-gaap/2013,negatedTerseLabel,"Shares, Vested",1
+0001564590-14-003474,46,8,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVestedInPeriod,us-gaap/2013,negatedLabel,"Number of Shares, Vested",1
+0001564590-14-003474,48,14,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVestedInPeriodWeightedAverageGrantDateFairValue,us-gaap/2013,terseLabel,"Weighted Average Grant Date Fair Value Per Share, Vested",0
+0001564590-14-003474,46,13,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVestedInPeriodWeightedAverageGrantDateFairValue,us-gaap/2013,terseLabel,"Weighted Average Grant Date Fair Value Per Share, Vested",0
+0001564590-14-003474,51,6,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardFairValueAssumptionsExpectedDividendRate,us-gaap/2013,terseLabel,Expected dividend yield,0
+0001564590-14-003474,51,9,,0,H,SharebasedCompensationArrangementBySharebasedPaymentAwardFairValueAssumptionsExpectedTerm1,us-gaap/2013,terseLabel,Expected term (in years),0
+0001564590-14-003474,51,8,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardFairValueAssumptionsExpectedVolatilityRate,us-gaap/2013,terseLabel,Expected volatility,0
+0001564590-14-003474,51,7,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardFairValueAssumptionsRiskFreeInterestRate,us-gaap/2013,terseLabel,Risk-free interest rate,0
+0001564590-14-003474,51,5,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardLineItems,us-gaap/2013,terseLabel,Share Based Compensation Arrangement By Share Based Payment Award [Line Items],0
+0001564590-14-003474,48,5,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardLineItems,us-gaap/2013,terseLabel,Share Based Compensation Arrangement By Share Based Payment Award [Line Items],0
+0001564590-14-003474,46,5,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardLineItems,us-gaap/2013,terseLabel,Share Based Compensation Arrangement By Share Based Payment Award [Line Items],0
+0001564590-14-003474,49,6,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardLineItems,us-gaap/2013,terseLabel,Share Based Compensation Arrangement By Share Based Payment Award [Line Items],0
+0001564590-14-003474,50,8,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardLineItems,us-gaap/2013,terseLabel,Share Based Compensation Arrangement By Share Based Payment Award [Line Items],0
+0001564590-14-003474,47,27,,0,H,SharebasedCompensationArrangementBySharebasedPaymentAwardOptionsExercisableIntrinsicValue1,us-gaap/2013,terseLabel,Exercisable at end of period,0
+0001564590-14-003474,47,10,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExercisableNumber,us-gaap/2013,terseLabel,Exercisable at end of period,0
+0001564590-14-003474,47,18,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExercisableWeightedAverageExercisePrice,us-gaap/2013,terseLabel,Exercisable at end of period,0
+0001564590-14-003474,47,22,,0,H,SharebasedCompensationArrangementBySharebasedPaymentAwardOptionsExercisableWeightedAverageRemainingContractualTerm1,us-gaap/2013,terseLabel,Exercisable at end of period,0
+0001564590-14-003474,45,30,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExercisesInPeriodTotalIntrinsicValue,us-gaap/2013,terseLabel,"Stock options exercised, intrinsic value",0
+0001564590-14-003474,47,7,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsForfeituresInPeriod,us-gaap/2013,negatedLabel,Options canceled,1
+0001564590-14-003474,47,5,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsGrantsInPeriod,us-gaap/2013,terseLabel,Options assumed in connection with acquisitions,0
+0001564590-14-003474,45,33,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsGrantsInPeriodWeightedAverageGrantDateFairValue,us-gaap/2013,terseLabel,"Share-based compensation, weighted average grant date fair value",0
+0001564590-14-003474,47,24,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsOutstandingIntrinsicValue,us-gaap/2013,periodStartLabel,Outstanding at beginning of period,0
+0001564590-14-003474,47,25,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsOutstandingIntrinsicValue,us-gaap/2013,periodEndLabel,Outstanding at end of period,0
+0001564590-14-003474,45,22,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsOutstandingNumber,us-gaap/2013,terseLabel,Stock options outstanding,0
+0001564590-14-003474,47,4,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsOutstandingNumber,us-gaap/2013,periodStartLabel,Outstanding at beginning of period,0
+0001564590-14-003474,47,8,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsOutstandingNumber,us-gaap/2013,periodEndLabel,Outstanding at end of period,0
+0001564590-14-003474,47,3,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsOutstandingRollForward,us-gaap/2013,terseLabel,Options Outstanding - Number of Shares,0
+0001564590-14-003474,47,12,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsOutstandingWeightedAverageExercisePrice,us-gaap/2013,periodStartLabel,Outstanding at beginning of period,0
+0001564590-14-003474,47,16,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsOutstandingWeightedAverageExercisePrice,us-gaap/2013,periodEndLabel,Outstanding at end of period,0
+0001564590-14-003474,47,11,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsOutstandingWeightedAverageExercisePriceRollforward,us-gaap/2013,terseLabel,Options Outstanding - Weighted-Average Exercise Price Per Share,0
+0001564590-14-003474,47,20,,0,H,SharebasedCompensationArrangementBySharebasedPaymentAwardOptionsOutstandingWeightedAverageRemainingContractualTerm2,us-gaap/2013,terseLabel,Outstanding,0
+0001564590-14-003474,47,17,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsVestedAndExpectedToVestExercisableWeightedAverageExercisePrice,us-gaap/2013,terseLabel,Vested and expected to vest at end of period,0
+0001564590-14-003474,47,26,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsVestedAndExpectedToVestOutstandingAggregateIntrinsicValue,us-gaap/2013,terseLabel,Vested and expected to vest at end of period,0
+0001564590-14-003474,47,9,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsVestedAndExpectedToVestOutstandingNumber,us-gaap/2013,terseLabel,Vested and expected to vest at end of period,0
+0001564590-14-003474,47,21,,0,H,SharebasedCompensationArrangementBySharebasedPaymentAwardOptionsVestedAndExpectedToVestOutstandingWeightedAverageRemainingContractualTerm1,us-gaap/2013,terseLabel,Vested and expected to vest at end of period,0
+0001564590-14-003474,45,31,,0,H,SharebasedCompensationArrangementBySharebasedPaymentAwardOptionsVestedInPeriodFairValue1,us-gaap/2013,terseLabel,"Stock options vested, fair value",0
+0001564590-14-003474,45,28,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardPerShareWeightedAveragePriceOfSharesPurchased,us-gaap/2013,terseLabel,"Shares purchased price, per share",0
+0001564590-14-003474,45,27,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardSharesPurchasedForAward,us-gaap/2013,terseLabel,Number of shares purchased,0
+0001564590-14-003474,45,7,,0,H,ShareBasedCompensationArrangementsByShareBasedPaymentAwardAwardTypeAndPlanNameDomain,us-gaap/2013,terseLabel,Equity Award,0
+0001564590-14-003474,51,3,,0,H,ShareBasedCompensationArrangementsByShareBasedPaymentAwardAwardTypeAndPlanNameDomain,us-gaap/2013,terseLabel,Equity Award,0
+0001564590-14-003474,48,3,,0,H,ShareBasedCompensationArrangementsByShareBasedPaymentAwardAwardTypeAndPlanNameDomain,us-gaap/2013,terseLabel,Equity Award,0
+0001564590-14-003474,46,3,,0,H,ShareBasedCompensationArrangementsByShareBasedPaymentAwardAwardTypeAndPlanNameDomain,us-gaap/2013,terseLabel,Equity Award,0
+0001564590-14-003474,49,3,,0,H,ShareBasedCompensationArrangementsByShareBasedPaymentAwardAwardTypeAndPlanNameDomain,us-gaap/2013,terseLabel,Equity Award,0
+0001564590-14-003474,52,3,,0,H,ShareBasedCompensationArrangementsByShareBasedPaymentAwardAwardTypeAndPlanNameDomain,us-gaap/2013,terseLabel,Equity Award,0
+0001564590-14-003474,47,14,,0,H,ShareBasedCompensationArrangementsByShareBasedPaymentAwardOptionsExercisesInPeriodWeightedAverageExercisePrice,us-gaap/2013,terseLabel,Options exercised,0
+0001564590-14-003474,47,15,,0,H,ShareBasedCompensationArrangementsByShareBasedPaymentAwardOptionsForfeituresInPeriodWeightedAverageExercisePrice,us-gaap/2013,terseLabel,Options canceled,0
+0001564590-14-003474,47,13,,0,H,ShareBasedCompensationArrangementsByShareBasedPaymentAwardOptionsGrantsInPeriodWeightedAverageExercisePrice,us-gaap/2013,terseLabel,Options assumed in connection with acquisitions,0
+0001564590-14-003474,15,3,,0,H,ShareholdersEquityAndShareBasedPaymentsTextBlock,us-gaap/2013,terseLabel,Common Stock and Stockholders' Equity,0
+0001564590-14-003474,31,11,,0,H,ShortTermInvestmentsAbstract,us-gaap/2013,terseLabel,Short-term investments:,0
+0001564590-14-003474,52,8,,0,H,StateAndLocalJurisdictionMember,us-gaap/2013,terseLabel,State,0
+0001564590-14-003474,57,2,,0,H,StatementGeographicalAxis,us-gaap/2013,terseLabel,Geographical,0
+0001564590-14-003474,56,6,,0,H,StatementGeographicalAxis,us-gaap/2013,terseLabel,Geographical,0
+0001564590-14-003474,55,2,,0,H,StatementGeographicalAxis,us-gaap/2013,terseLabel,Geographical,0
+0001564590-14-003474,6,38,CF,0,H,StockIssued1,us-gaap/2013,terseLabel,Common and convertible preferred stock issued in connection with acquisitions,0
+0001564590-14-003474,44,4,,0,H,StockOptionMember,us-gaap/2013,terseLabel,Stock Options,0
+0001564590-14-003474,58,8,,0,H,SubsequentEventLineItems,us-gaap/2013,terseLabel,Subsequent Event [Line Items],0
+0001564590-14-003474,58,4,,0,H,SubsequentEventMember,us-gaap/2013,terseLabel,Subsequent Event,0
+0001564590-14-003474,19,3,,0,H,SubsequentEventsTextBlock,us-gaap/2013,terseLabel,Subsequent Events,0
+0001564590-14-003474,58,1,,0,H,SubsequentEventTable,us-gaap/2013,terseLabel,Subsequent Event [Table],0
+0001564590-14-003474,58,2,,0,H,SubsequentEventTypeAxis,us-gaap/2013,terseLabel,Subsequent Event Type,0
+0001564590-14-003474,58,3,,0,H,SubsequentEventTypeDomain,us-gaap/2013,terseLabel,Subsequent Event Type,0
+0001564590-14-003474,12,3,,0,H,SupplementalBalanceSheetDisclosuresTextBlock,us-gaap/2013,terseLabel,Other Balance Sheet Components,0
+0001564590-14-003474,1,8,CP,0,H,TradingSymbol,dei/2013,terseLabel,Trading Symbol,0
+0001564590-14-003474,34,17,,0,H,UnderlyingAssetClassAxis,us-gaap/2013,terseLabel,Underlying Asset Class,0
+0001564590-14-003474,34,18,,0,H,UnderlyingAssetClassDomain,us-gaap/2013,terseLabel,Underlying Asset Class,0
+0001564590-14-003474,21,4,,0,H,UnrealizedGainLossOnInvestmentsTableTextBlock,us-gaap/2013,terseLabel,Summary of Unrealized Gains and Losses Related to Available-for-Sale Securities Classified as Short-term Investments,0
+0001564590-14-003474,52,12,,0,H,UnrecognizedTaxBenefits,us-gaap/2013,terseLabel,"Unrecognized tax benefits, gross",0
+0001564590-14-003474,52,11,,0,H,UnrecognizedTaxBenefitsPeriodIncreaseDecrease,us-gaap/2013,terseLabel,"Unrecognized tax benefits, period change",0
+0001564590-14-003474,20,4,,0,H,UseOfEstimates,us-gaap/2013,terseLabel,Use of Estimates,0
+0001564590-14-003474,34,14,,0,H,USGovernmentAgenciesDebtSecuritiesMember,us-gaap/2013,terseLabel,US Government Securities,0
+0001564590-14-003474,34,12,,0,H,USTreasuryBillSecuritiesMember,us-gaap/2013,terseLabel,Treasury Bills,0
+0001564590-14-003474,53,2,,0,H,VariableRateAxis,us-gaap/2013,terseLabel,Variable Rate,0
+0001564590-14-003474,53,3,,0,H,VariableRateDomain,us-gaap/2013,terseLabel,Variable Rate,0
+0001564590-14-003474,44,8,,0,H,WarrantMember,us-gaap/2013,terseLabel,Warrant,0
+0001564590-14-003474,43,5,,0,H,WeightedAverageNumberOfSharesIssuedBasic,us-gaap/2013,terseLabel,Weighted-average common shares outstanding,0
+0001564590-14-003474,43,4,,0,H,WeightedAverageNumberOfSharesOutstandingBasicAbstract,us-gaap/2013,terseLabel,Basic shares:,0
+0001564590-14-003474,43,6,,0,H,WeightedAverageNumberOfSharesRestrictedStock,us-gaap/2013,negatedLabel,Weighted-average restricted stock subject to repurchase,1
+0001564590-14-003474,6,41,CF,0,H,UnpaidDeferredOfferingCosts,0001564590-14-003474,terseLabel,Unpaid deferred offering costs,0
+0001564590-14-003474,41,4,,0,H,AccruedFixedAssetsAndMaintenance,0001564590-14-003474,terseLabel,Accrued fixed assets and maintenance,0
+0001564590-14-003474,41,6,,0,H,AccruedPublisherPayments,0001564590-14-003474,terseLabel,Accrued publisher payments,0
+0001564590-14-003474,37,6,,0,H,AssembledWorkforceMember,0001564590-14-003474,terseLabel,Assembled Workforce,0
+0001564590-14-003474,33,10,,0,H,AvailableForSaleSecuritiesContinuousUnrealizedLossPosition12MonthsOrLongerAggregateLossesAccumulatedInInvestments,0001564590-14-003474,negatedLabel,"12 Months or Greater, Unrealized Loss",1
+0001564590-14-003474,33,12,,0,H,AvailableForSaleSecuritiesContinuousUnrealizedLossPositionAggregateLossesAccumulatedInInvestments,0001564590-14-003474,negatedTotalLabel,Total Unrealized Loss,1
+0001564590-14-003474,33,8,,0,H,AvailableForSaleSecuritiesContinuousUnrealizedLossPositionLessThan12MonthsAggregateLossesAccumulatedInInvestments,0001564590-14-003474,negatedLabel,"Less than 12 Months, Unrealized Loss",1
+0001564590-14-003474,32,8,,0,H,AvailableForSaleSecuritiesGrossUnrealizedGainAccumulatedInInvestments,0001564590-14-003474,terseLabel,Gross Unrealized Gains,0
+0001564590-14-003474,32,9,,0,H,AvailableForSaleSecuritiesGrossUnrealizedLossAccumulatedInInvestments,0001564590-14-003474,negatedLabel,Gross Unrealized Losses,1
+0001564590-14-003474,42,17,,0,H,BusinessCombinationConsiderationTransferredIncludingEquityInterestInAcquireeHeldPriorToCombinationShares,0001564590-14-003474,verboseLabel,"Business acquisition, common shares issueable in respect of assumed equity awards held by individauls",0
+0001564590-14-003474,35,6,,0,H,CapitalizedSoftwareMember,0001564590-14-003474,terseLabel,Capitalized Software,0
+0001564590-14-003474,33,5,,0,H,CorporateNotesCertificatesOfDepositAndCommercialPaperMember,0001564590-14-003474,terseLabel,"Corporate Notes, Certificates of Deposit and Commercial Paper",0
+0001564590-14-003474,32,5,,0,H,CorporateNotesCertificatesOfDepositAndCommercialPaperMember,0001564590-14-003474,terseLabel,"Corporate Notes, Certificates of Deposit and Commercial Paper",0
+0001564590-14-003474,31,7,,0,H,CorporateNotesCertificatesOfDepositAndCommercialPaperMember,0001564590-14-003474,terseLabel,"Corporate Notes, Certificates of Deposit and Commercial Paper",0
+0001564590-14-003474,1,2,CP,0,H,DocumentAndEntityInformationLineItems,0001564590-14-003474,terseLabel,Document And Entity Information [Line Items],0
+0001564590-14-003474,1,1,CP,0,H,DocumentAndEntityInformationTable,0001564590-14-003474,terseLabel,Document And Entity Information [Table],0
+0001564590-14-003474,49,4,,0,H,EmployeeMember,0001564590-14-003474,terseLabel,Employee,0
+0001564590-14-003474,45,11,,0,H,EquityIncentivePlan2007Member,0001564590-14-003474,terseLabel,2007 Equity Incentive Plan,0
+0001564590-14-003474,45,10,,0,H,EquityIncentivePlans2013Member,0001564590-14-003474,terseLabel,2013 Equity Incentive Plan,0
+0001564590-14-003474,35,5,,0,H,FurnitureAndLeaseholdImprovementsMember,0001564590-14-003474,terseLabel,Furniture and Leasehold Improvements,0
+0001564590-14-003474,36,4,,0,H,GnipAcquisitionMember,0001564590-14-003474,terseLabel,Gnip acquisition,0
+0001564590-14-003474,42,4,,0,H,GnipIncMember,0001564590-14-003474,terseLabel,Gnip Inc,0
+0001564590-14-003474,52,13,,0,H,IncreaseDecreaseInOperatingLossCarryforwards,0001564590-14-003474,terseLabel,Increase of Operating Loss Carryforwards,0
+0001564590-14-003474,55,5,,0,H,InternationalMember,0001564590-14-003474,terseLabel,International,0
+0001564590-14-003474,56,9,,0,H,InternationalMember,0001564590-14-003474,terseLabel,International,0
+0001564590-14-003474,57,5,,0,H,InternationalMember,0001564590-14-003474,terseLabel,International,0
+0001564590-14-003474,49,5,,0,H,NonEmployeeMember,0001564590-14-003474,terseLabel,Non-Employee,0
+0001564590-14-003474,56,13,,0,H,NumberOfIndividualCountryContributedInExcessOfTenPercentToRevenue,0001564590-14-003474,terseLabel,Number of individual country that contributed in excess of ten percent to revenue,0
+0001564590-14-003474,54,2,,0,H,OperatingLeasedAndCapitalLeasedAssetsLineItems,0001564590-14-003474,terseLabel,Operating Leased And Capital Leased Assets [Line Items],0
+0001564590-14-003474,36,5,,0,H,OtherAcquisitionsMember,0001564590-14-003474,terseLabel,Other acquisitions,0
+0001564590-14-003474,40,2,,0,H,OtherBalanceSheetComponentsLineItems,0001564590-14-003474,terseLabel,Other Balance Sheet Components [Line Items],0
+0001564590-14-003474,41,2,,0,H,OtherBalanceSheetComponentsLineItems,0001564590-14-003474,terseLabel,Other Balance Sheet Components [Line Items],0
+0001564590-14-003474,41,1,,0,H,OtherBalanceSheetComponentsTable,0001564590-14-003474,terseLabel,Other Balance Sheet Components [Table],0
+0001564590-14-003474,40,1,,0,H,OtherBalanceSheetComponentsTable,0001564590-14-003474,terseLabel,Other Balance Sheet Components [Table],0
+0001564590-14-003474,37,4,,0,H,PatentsAndDevelopedTechnologiesMember,0001564590-14-003474,terseLabel,Patents and Developed Technologies,0
+0001564590-14-003474,45,13,,0,H,PostTwentyThirteenRestrictedStockUnitsMember,0001564590-14-003474,terseLabel,Post-2013 RSUs,0
+0001564590-14-003474,45,12,,0,H,PreTwentyThirteenRestrictedStockUnitsMember,0001564590-14-003474,terseLabel,Pre-2013 RSUs,0
+0001564590-14-003474,37,5,,0,H,PublisherAndAdvertiserRelationshipsMember,0001564590-14-003474,terseLabel,Publisher and Advertiser Relationships,0
+0001564590-14-003474,56,12,,0,H,RevenuePercentage,0001564590-14-003474,terseLabel,Revenue percentage,0
+0001564590-14-003474,54,1,,0,H,ScheduleOfOperatingLeasedAndCapitalLeasedAssetsTable,0001564590-14-003474,terseLabel,Schedule Of Operating Leased And Capital Leased Assets [Table],0
+0001564590-14-003474,48,11,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVestedNumber,0001564590-14-003474,terseLabel,"Shares, Vested and outstanding at end of period",0
+0001564590-14-003474,48,17,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVestedWeightedAverageGrantDateFairValue,0001564590-14-003474,terseLabel,"Weighted Average Grant Date Fair Value Per Share, Vested and outstanding at end of period",0
+0001564590-14-003474,47,23,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsAggregateIntrinsicValueAbstract,0001564590-14-003474,terseLabel,Options Outstanding - Aggregate Intrinsic Value,0
+0001564590-14-003474,45,26,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsAndNonOptionEquityInstrumentsOutstandingNumber,0001564590-14-003474,terseLabel,Stock options restricted stock units outstanding,0
+0001564590-14-003474,47,19,,0,H,ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsWeightedAverageRemainingContractualTermAbstract,0001564590-14-003474,terseLabel,Options Outstanding - Weighted-Average Remaining Contractual Life,0
+0001564590-14-003474,30,3,,0,H,UnrecognizedTaxBenefitsForNetDeferredTaxAssetsAndLiability,0001564590-14-003474,terseLabel,Decrease in net deferred tax assets and liability,0
+0001564590-14-003474,31,6,,0,H,USGovernmentAndAgencySecuritiesIncludingTreasuryBillsMember,0001564590-14-003474,terseLabel,U.S. Government and Agency Securities Including Treasury Bills,0
+0001564590-14-003474,32,4,,0,H,USGovernmentAndAgencySecuritiesIncludingTreasuryBillsMember,0001564590-14-003474,terseLabel,U.S. Government and Agency Securities Including Treasury Bills,0
+0001564590-14-003474,33,4,,0,H,USGovernmentAndAgencySecuritiesIncludingTreasuryBillsMember,0001564590-14-003474,terseLabel,U.S. Government and Agency Securities Including Treasury Bills,0

@@ -9,7 +9,7 @@ DEST_DIR = Path('data/notes')
 EXPECTED_TEXT_FILENAMES = ['cal', 'dim',
                            'num', 'pre',
                            'ren', 'sub',
-                           'tag', 'txt']
+                           'tag', 'txt',]
 
 DEST_DIR.mkdir(exist_ok=True, parents=True)
 zip_fnames = sorted(SRC_DIR.glob('*_notes.zip'))
