@@ -16,8 +16,24 @@ https://www.sec.gov/dera/data/financial-statement-data-sets.html
 
 # Samples
 
+Google spreadsheet containing a sampling of 2016q4 data from several companies:
 
-GoPro:
+https://docs.google.com/spreadsheets/d/1WgD0WkvVaUtqTE0Af_ZdCVSFk1eFp7Jv4c87xceG_kw/edit#gid=1935154626
+
+
+#### Twilio
+
+
+- Edgar Index: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001447669
+    - With params: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001447669&type=&dateb=&owner=include&count=100&start=20
+    - S-1 search: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001447669&type=S-1&dateb=&owner=include&count=100
+- S-1 on 2016-10-07, index: https://www.sec.gov/Archives/edgar/data/1447669/000119312516733893/0001193125-16-733893-index.htm
+    - htm version: https://www.sec.gov/Archives/edgar/data/1447669/000119312516733893/d237988ds1.htm
+- 10-K 2018
+    - index: https://www.sec.gov/Archives/edgar/data/1447669/000104746919000807/0001047469-19-000807-index.htm
+    - htm: https://www.sec.gov/Archives/edgar/data/1447669/000104746919000807/a2237834z10-k.htm
+
+#### GoPro:
 
 - Edgar Index: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001500435
     - With params: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001500435&type=&dateb=&owner=include&count=100&start=20
@@ -27,14 +43,14 @@ GoPro:
 - 2018Q3 10-Q Index: https://www.sec.gov/Archives/edgar/data/1500435/000150043518000049/0001500435-18-000049-index.htm
 - 2018 10K INdex: https://www.sec.gov/Archives/edgar/data/1500435/000150043519000013/0001500435-19-000013-index.htm
 
-Twitter S-1:
+#### Twitter S-1:
 
 - Index: https://www.sec.gov/Archives/edgar/data/1418091/000119312513390321/0001193125-13-390321-index.htm
 - HTML: https://www.sec.gov/Archives/edgar/data/1418091/000119312513390321/d564001ds1.htm
 - Text: https://www.sec.gov/Archives/edgar/data/1418091/000119312513390321/0001193125-13-390321.txt
 
 
-Pandora S-1:
+####  Pandora S-1:
 
 - Index: https://www.sec.gov/Archives/edgar/data/1230276/000119312511032963/0001193125-11-032963-index.htm
 - HTML: https://www.sec.gov/Archives/edgar/data/1230276/000119312511032963/ds1.htm
