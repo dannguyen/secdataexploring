@@ -24,7 +24,8 @@ GoPro:
     - S-1: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001500435&type=S-1&dateb=&owner=include&count=100
 - Original S-1: https://www.sec.gov/Archives/edgar/data/1500435/000119312514204902/0001193125-14-204902-index.htm
 - S-1/A on 2014-11-17 (with XBRL): https://www.sec.gov/Archives/edgar/data/1500435/000119312514415127/0001193125-14-415127-index.htm
-
+- 2018Q3 10-Q Index: https://www.sec.gov/Archives/edgar/data/1500435/000150043518000049/0001500435-18-000049-index.htm
+- 2018 10K INdex: https://www.sec.gov/Archives/edgar/data/1500435/000150043519000013/0001500435-19-000013-index.htm
 
 Twitter S-1:
 
