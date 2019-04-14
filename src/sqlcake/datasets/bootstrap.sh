@@ -6,10 +6,10 @@
 # and creating basic indices
 
 # example call:
-# ./src/sqlcake/datasets/bootstrap.sh  data/sqlcake/sec-datasets.sqlite   data/datasets/formatted
+# ./src/sqlcake/datasets/bootstrap.sh  data/sqlcake/finst-datasets.sqlite   data/datasets/formatted
 
 # sample call:
-# ./src/sqlcake/datasets/bootstrap.sh  samples/sec-datasets-sample.sqlite  samples/dataset-2016q4
+# ./src/sqlcake/datasets/bootstrap.sh  samples/finst-datasets-sample.sqlite  samples/dataset-2016q4
 
 
 
@@ -29,7 +29,6 @@ mkdir -p $(dirname $DBNAME)
 
 # create the database
 sqlite3 <<< ".open ${DBNAME}"
-
 # create the tables
 sqlite3 ${DBNAME} < ${SCRIPT_DIR}/schemas/tbl-num.sql
 sqlite3 ${DBNAME} < ${SCRIPT_DIR}/schemas/tbl-pre.sql
@@ -47,10 +46,10 @@ sqlite3 ${DBNAME} <<SQL_CMDS
 .changes on
 .mode csv
 .import ${srcfile} ${tblname}
+
+DELETE FROM "${tblname}" WHERE "adsh" = 'adsh';
 SQL_CMDS
 
 done
-
-
 
 sqlite3 ${DBNAME}  < ${SCRIPT_DIR}/schemas/indexes.sql

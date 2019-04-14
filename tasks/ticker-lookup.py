@@ -6,7 +6,7 @@ from csv import DictWriter
 from pathlib import Path
 
 SRC_PATH = Path('data', 'lookups', 'initial-tickers.txt')
-OUT_PATH = Path('data', 'lookups', 'cik-tickers.csv')
+OUT_PATH = Path('data', 'lookups', 'tickers-looked-up.csv')
 
 tickers = SRC_PATH.read_text().splitlines()
 data = []
